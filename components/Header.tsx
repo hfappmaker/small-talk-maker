@@ -5,7 +5,7 @@ export default function Header() {
         雑談メーカー
       </h1>
       <p className="text-gray-600 dark:text-gray-400">
-        ランダムまたはカテゴリ別に雑談の話題を提案します
+        ランダムに雑談の話題を提案します
       </p>
     </header>
   );
