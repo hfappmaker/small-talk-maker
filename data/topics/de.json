@@ -149,6 +149,106 @@
       "id": 30,
       "content": "Was hat dich kürzlich zum Lachen gebracht oder glücklich gemacht?",
       "category": "Alltag"
+    },
+    {
+      "id": 31,
+      "content": "Was möchtest du dieses Wochenende ausprobieren?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 32,
+      "content": "Welche Küche oder Würze magst du in letzter Zeit?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 33,
+      "content": "Wohin möchtest du in deinem nächsten langen Urlaub reisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 34,
+      "content": "Welche Werte sind dir bei der Arbeit am wichtigsten?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 35,
+      "content": "Was ist eine nützliche Funktion deines Computers oder Smartphones?",
+      "category": "Technologie"
+    },
+    {
+      "id": 36,
+      "content": "Hast du kürzlich Lebensgewohnheiten geändert?",
+      "category": "Alltag"
+    },
+    {
+      "id": 37,
+      "content": "Was ist deine Lieblingssportart oder welches Team unterstützt du?",
+      "category": "Sport"
+    },
+    {
+      "id": 38,
+      "content": "Hast du in der Schulzeit Sport oder Clubs gemacht?",
+      "category": "Sport"
+    },
+    {
+      "id": 39,
+      "content": "Hast du in letzter Zeit trainiert? Was machst du?",
+      "category": "Sport"
+    },
+    {
+      "id": 40,
+      "content": "Welchen Film oder welche Serie hast du kürzlich genossen?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 41,
+      "content": "Wer ist dein Lieblingspromi oder Künstler?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 42,
+      "content": "Warst du schon mal auf einem Live-Konzert oder einer Show?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 43,
+      "content": "Was machst du, um gesund zu bleiben?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 44,
+      "content": "Wie viele Stunden schläfst du? Ist die Qualität gut?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 45,
+      "content": "Was ist deine Routine zum Entspannen?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 46,
+      "content": "Was möchtest du lernen oder welche Zertifizierung interessiert dich?",
+      "category": "Lernen"
+    },
+    {
+      "id": 47,
+      "content": "Was waren deine besten und schlechtesten Fächer in der Schule?",
+      "category": "Lernen"
+    },
+    {
+      "id": 48,
+      "content": "Welches Buch oder welchen Artikel hast du kürzlich gelesen, der hilfreich war?",
+      "category": "Lernen"
+    },
+    {
+      "id": 49,
+      "content": "Was ist dein unvergesslichster Moment mit Familie oder Freunden?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 50,
+      "content": "Was machst du gerne, wenn du mit Freunden zusammen bist?",
+      "category": "Familie & Freunde"
     }
   ]
 }

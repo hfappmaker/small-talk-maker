@@ -149,6 +149,106 @@
       "id": 30,
       "content": "Qu'est-ce qui t'a fait rire ou t'a rendu heureux récemment ?",
       "category": "Vie Quotidienne"
+    },
+    {
+      "id": 31,
+      "content": "Que voudrais-tu essayer ce week-end ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 32,
+      "content": "Quelle cuisine ou assaisonnement t'intéresse dernièrement ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 33,
+      "content": "Où aimerais-tu aller lors de tes prochaines longues vacances ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 34,
+      "content": "Quelles valeurs sont les plus importantes pour toi au travail ?",
+      "category": "Travail"
+    },
+    {
+      "id": 35,
+      "content": "Quelle est une fonction utile de ton ordinateur ou smartphone ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 36,
+      "content": "As-tu changé des habitudes de vie récemment ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 37,
+      "content": "Quel est ton sport préféré ou ton équipe favorite ?",
+      "category": "Sports"
+    },
+    {
+      "id": 38,
+      "content": "As-tu pratiqué un sport ou des clubs à l'école ?",
+      "category": "Sports"
+    },
+    {
+      "id": 39,
+      "content": "Fais-tu de l'exercice récemment ? Quoi ?",
+      "category": "Sports"
+    },
+    {
+      "id": 40,
+      "content": "Quel film ou série as-tu apprécié récemment ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 41,
+      "content": "Qui est ta célébrité ou ton artiste préféré ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 42,
+      "content": "Es-tu déjà allé à un concert ou spectacle en direct ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 43,
+      "content": "Que fais-tu pour rester en bonne santé ?",
+      "category": "Santé"
+    },
+    {
+      "id": 44,
+      "content": "Combien d'heures dors-tu ? La qualité est-elle bonne ?",
+      "category": "Santé"
+    },
+    {
+      "id": 45,
+      "content": "Quelle est ta routine pour te détendre ?",
+      "category": "Santé"
+    },
+    {
+      "id": 46,
+      "content": "Que voudrais-tu apprendre ou quelle certification t'intéresse ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 47,
+      "content": "Quelles étaient tes meilleures et pires matières à l'école ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 48,
+      "content": "Quel livre ou article as-tu lu récemment qui était utile ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 49,
+      "content": "Quel est ton moment le plus mémorable avec ta famille ou tes amis ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 50,
+      "content": "Qu'aimes-tu faire quand tu sors avec des amis ?",
+      "category": "Famille et Amis"
     }
   ]
 }

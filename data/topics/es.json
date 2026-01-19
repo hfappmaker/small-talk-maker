@@ -149,6 +149,106 @@
       "id": 30,
       "content": "¿Qué te hizo reír o te hizo feliz recientemente?",
       "category": "Vida Diaria"
+    },
+    {
+      "id": 31,
+      "content": "¿Qué te gustaría intentar este fin de semana?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 32,
+      "content": "¿Qué cocina o condimento te ha gustado últimamente?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 33,
+      "content": "¿A dónde te gustaría ir en tus próximas vacaciones largas?",
+      "category": "Viajes"
+    },
+    {
+      "id": 34,
+      "content": "¿Qué valores son más importantes para ti en el trabajo?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 35,
+      "content": "¿Qué función útil tiene tu computadora o smartphone?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 36,
+      "content": "¿Has cambiado algún hábito de vida recientemente?",
+      "category": "Vida Diaria"
+    },
+    {
+      "id": 37,
+      "content": "¿Cuál es tu deporte favorito o equipo que apoyas?",
+      "category": "Deportes"
+    },
+    {
+      "id": 38,
+      "content": "¿Practicaste algún deporte o club en la escuela?",
+      "category": "Deportes"
+    },
+    {
+      "id": 39,
+      "content": "¿Has estado haciendo ejercicio últimamente? ¿Qué haces?",
+      "category": "Deportes"
+    },
+    {
+      "id": 40,
+      "content": "¿Qué película o serie has disfrutado recientemente?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 41,
+      "content": "¿Quién es tu celebridad o artista favorito?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 42,
+      "content": "¿Has ido alguna vez a un concierto o espectáculo en vivo?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 43,
+      "content": "¿Qué haces para mantenerte saludable?",
+      "category": "Salud"
+    },
+    {
+      "id": 44,
+      "content": "¿Cuántas horas duermes? ¿La calidad es buena?",
+      "category": "Salud"
+    },
+    {
+      "id": 45,
+      "content": "¿Cuál es tu rutina para relajarte?",
+      "category": "Salud"
+    },
+    {
+      "id": 46,
+      "content": "¿Qué te gustaría aprender o qué certificación te interesa?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 47,
+      "content": "¿Cuáles fueron tus mejores y peores materias en la escuela?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 48,
+      "content": "¿Qué libro o artículo has leído recientemente que fue útil?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 49,
+      "content": "¿Cuál es tu momento más memorable con familia o amigos?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 50,
+      "content": "¿Qué te gusta hacer cuando sales con amigos?",
+      "category": "Familia y Amigos"
     }
   ]
 }

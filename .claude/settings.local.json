@@ -3,7 +3,12 @@
     "allow": [
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(for file in data/topics/*.json)",
+      "Bash(do)",
+      "Bash(node -e:*)",
+      "Bash(echo:*)",
+      "Bash(done)"
     ],
     "additionalDirectories": [
       "/workspaces/zatsudan-maker/app"
