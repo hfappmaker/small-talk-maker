@@ -1,0 +1,154 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "content": "¿Qué libro te pareció interesante recientemente?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 2,
+      "content": "¿Cuál es tu comida favorita y por qué?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 3,
+      "content": "¿A dónde te gustaría viajar?",
+      "category": "Viajes"
+    },
+    {
+      "id": 4,
+      "content": "¿Qué has logrado recientemente en el trabajo?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 5,
+      "content": "¿Qué tecnología o gadget te interesa últimamente?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 6,
+      "content": "¿Qué fue memorable del día de hoy?",
+      "category": "Vida Diaria"
+    },
+    {
+      "id": 7,
+      "content": "¿Has empezado algún nuevo pasatiempo recientemente?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 8,
+      "content": "¿Cuál es tu restaurante o cafetería favorito?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 9,
+      "content": "¿Cuál es el mejor lugar al que has viajado?",
+      "category": "Viajes"
+    },
+    {
+      "id": 10,
+      "content": "¿Cuál es tu secreto para mantenerte motivado en el trabajo?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 11,
+      "content": "¿Cuál es la aplicación que más usas en tu smartphone?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 12,
+      "content": "¿Cómo te gusta pasar tus días libres?",
+      "category": "Vida Diaria"
+    },
+    {
+      "id": 13,
+      "content": "¿Cuál es tu género favorito de películas o series?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 14,
+      "content": "¿Qué postre delicioso has comido recientemente?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 15,
+      "content": "¿Prefieres viajar nacional o internacionalmente?",
+      "category": "Viajes"
+    },
+    {
+      "id": 16,
+      "content": "¿Prefieres el trabajo remoto o el trabajo en oficina?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 17,
+      "content": "¿Qué piensas sobre la IA? ¿Alguna esperanza o preocupación?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 18,
+      "content": "¿Eres persona de mañana o de noche?",
+      "category": "Vida Diaria"
+    },
+    {
+      "id": 19,
+      "content": "¿Cuál es tu género musical o artista favorito?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 20,
+      "content": "¿Cocinas en casa o comes fuera? ¿Cuál es el atractivo de cada uno?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 21,
+      "content": "¿Prefieres viajes a aguas termales o a la playa?",
+      "category": "Viajes"
+    },
+    {
+      "id": 22,
+      "content": "¿Tienes un buen equilibrio entre el trabajo y la vida personal?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 23,
+      "content": "¿Qué gadget o producto tecnológico deseas más ahora?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 24,
+      "content": "¿Cómo alivias el estrés?",
+      "category": "Vida Diaria"
+    },
+    {
+      "id": 25,
+      "content": "¿Eres más de interiores o de exteriores?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 26,
+      "content": "¿Prefieres la comida japonesa, occidental o china?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 27,
+      "content": "¿Prefieres viajar solo o con amigos?",
+      "category": "Viajes"
+    },
+    {
+      "id": 28,
+      "content": "¿Qué es importante para ti en tu carrera?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 29,
+      "content": "¿Qué redes sociales usas y cómo?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 30,
+      "content": "¿Qué te hizo reír o te hizo feliz recientemente?",
+      "category": "Vida Diaria"
+    }
+  ]
+}

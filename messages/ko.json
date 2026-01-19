@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "잡담 메이커",
+    "description": "무작위로 대화 주제를 추천하는 웹 애플리케이션"
+  },
+  "header": {
+    "title": "잡담 메이커",
+    "subtitle": "무작위로 대화 주제를 추천합니다"
+  },
+  "button": {
+    "showTopic": "주제 표시"
+  },
+  "topicCard": {
+    "emptyState": "버튼을 클릭하여 주제를 표시하세요"
+  },
+  "error": {
+    "fetchFailed": "주제 가져오기 실패:"
+  },
+  "languageSwitcher": {
+    "label": "언어"
+  }
+}

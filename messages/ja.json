@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "雑談メーカー",
+    "description": "ランダムに雑談の話題を提案するWebアプリケーション"
+  },
+  "header": {
+    "title": "雑談メーカー",
+    "subtitle": "ランダムに雑談の話題を提案します"
+  },
+  "button": {
+    "showTopic": "話題を表示する"
+  },
+  "topicCard": {
+    "emptyState": "ボタンをクリックして話題を表示"
+  },
+  "error": {
+    "fetchFailed": "話題の取得に失敗しました:"
+  },
+  "languageSwitcher": {
+    "label": "言語"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Gerador de Tópicos",
+    "description": "Uma aplicação web que sugere tópicos de conversa aleatórios"
+  },
+  "header": {
+    "title": "Gerador de Tópicos",
+    "subtitle": "Sugere tópicos de conversa aleatórios"
+  },
+  "button": {
+    "showTopic": "Mostrar Tópico"
+  },
+  "topicCard": {
+    "emptyState": "Clique no botão para exibir um tópico"
+  },
+  "error": {
+    "fetchFailed": "Falha ao buscar tópico:"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}

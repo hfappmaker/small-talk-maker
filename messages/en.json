@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Zatsudan Maker",
+    "description": "A web application that suggests random conversation topics"
+  },
+  "header": {
+    "title": "Zatsudan Maker",
+    "subtitle": "Suggest random conversation topics"
+  },
+  "button": {
+    "showTopic": "Show Topic"
+  },
+  "topicCard": {
+    "emptyState": "Click the button to display a topic"
+  },
+  "error": {
+    "fetchFailed": "Failed to fetch topic:"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}

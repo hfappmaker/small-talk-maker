@@ -1,0 +1,154 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "content": "What book did you find interesting recently?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 2,
+      "content": "What's your favorite food and why?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 3,
+      "content": "Where would you like to travel to?",
+      "category": "Travel"
+    },
+    {
+      "id": 4,
+      "content": "What have you recently accomplished at work?",
+      "category": "Work"
+    },
+    {
+      "id": 5,
+      "content": "What technology or gadgets are you interested in lately?",
+      "category": "Technology"
+    },
+    {
+      "id": 6,
+      "content": "What was memorable about today?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 7,
+      "content": "Have you started any new hobbies recently?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 8,
+      "content": "What's your favorite restaurant or cafe?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 9,
+      "content": "What's the best place you've ever traveled to?",
+      "category": "Travel"
+    },
+    {
+      "id": 10,
+      "content": "What's your secret to staying motivated at work?",
+      "category": "Work"
+    },
+    {
+      "id": 11,
+      "content": "What's the app you use most on your smartphone?",
+      "category": "Technology"
+    },
+    {
+      "id": 12,
+      "content": "How do you like to spend your days off?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 13,
+      "content": "What's your favorite movie or drama genre?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 14,
+      "content": "What's a delicious dessert you've had recently?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 15,
+      "content": "Do you prefer domestic or international travel?",
+      "category": "Travel"
+    },
+    {
+      "id": 16,
+      "content": "Do you prefer remote work or office work?",
+      "category": "Work"
+    },
+    {
+      "id": 17,
+      "content": "What do you think about AI? Any hopes or concerns?",
+      "category": "Technology"
+    },
+    {
+      "id": 18,
+      "content": "Are you a morning person or a night person?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 19,
+      "content": "What's your favorite music genre or artist?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 20,
+      "content": "Do you cook at home or eat out? What's the appeal of each?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 21,
+      "content": "Do you prefer hot spring trips or beach trips?",
+      "category": "Travel"
+    },
+    {
+      "id": 22,
+      "content": "Do you have a good work-life balance?",
+      "category": "Work"
+    },
+    {
+      "id": 23,
+      "content": "What gadget or tech product do you want most right now?",
+      "category": "Technology"
+    },
+    {
+      "id": 24,
+      "content": "How do you relieve stress?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 25,
+      "content": "Are you more of an indoor or outdoor person?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 26,
+      "content": "Do you prefer Japanese, Western, or Chinese food?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 27,
+      "content": "Do you prefer solo travel or traveling with friends?",
+      "category": "Travel"
+    },
+    {
+      "id": 28,
+      "content": "What's important to you in your career?",
+      "category": "Work"
+    },
+    {
+      "id": 29,
+      "content": "What social media do you use and how?",
+      "category": "Technology"
+    },
+    {
+      "id": 30,
+      "content": "What made you laugh or happy recently?",
+      "category": "Daily Life"
+    }
+  ]
+}

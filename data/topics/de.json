@@ -1,0 +1,154 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "content": "Welches Buch fandest du kürzlich interessant?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 2,
+      "content": "Was ist dein Lieblingsessen und warum?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 3,
+      "content": "Wohin möchtest du gerne reisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 4,
+      "content": "Was hast du kürzlich bei der Arbeit erreicht?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 5,
+      "content": "Welche Technologie oder Gadgets interessieren dich in letzter Zeit?",
+      "category": "Technologie"
+    },
+    {
+      "id": 6,
+      "content": "Was war heute denkwürdig?",
+      "category": "Alltag"
+    },
+    {
+      "id": 7,
+      "content": "Hast du kürzlich ein neues Hobby angefangen?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 8,
+      "content": "Was ist dein Lieblingsrestaurant oder Café?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 9,
+      "content": "Was war der beste Ort, an den du je gereist bist?",
+      "category": "Reisen"
+    },
+    {
+      "id": 10,
+      "content": "Was ist dein Geheimnis, um bei der Arbeit motiviert zu bleiben?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 11,
+      "content": "Welche App nutzt du am meisten auf deinem Smartphone?",
+      "category": "Technologie"
+    },
+    {
+      "id": 12,
+      "content": "Wie verbringst du gerne deine freien Tage?",
+      "category": "Alltag"
+    },
+    {
+      "id": 13,
+      "content": "Was ist dein Lieblingsfilm- oder Seriengenre?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 14,
+      "content": "Welches leckere Dessert hast du kürzlich gegessen?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 15,
+      "content": "Bevorzugst du Inlands- oder Auslandsreisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 16,
+      "content": "Bevorzugst du Remote-Arbeit oder Büroarbeit?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 17,
+      "content": "Was denkst du über KI? Hoffnungen oder Bedenken?",
+      "category": "Technologie"
+    },
+    {
+      "id": 18,
+      "content": "Bist du ein Morgen- oder ein Nachtmensch?",
+      "category": "Alltag"
+    },
+    {
+      "id": 19,
+      "content": "Was ist dein Lieblingsmusikgenre oder Künstler?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 20,
+      "content": "Kochst du zu Hause oder isst du auswärts? Was ist der Reiz davon?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 21,
+      "content": "Bevorzugst du Thermalquellen-Reisen oder Strandreisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 22,
+      "content": "Hast du eine gute Work-Life-Balance?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 23,
+      "content": "Welches Gadget oder Tech-Produkt möchtest du gerade am meisten?",
+      "category": "Technologie"
+    },
+    {
+      "id": 24,
+      "content": "Wie baust du Stress ab?",
+      "category": "Alltag"
+    },
+    {
+      "id": 25,
+      "content": "Bist du eher ein Indoor- oder ein Outdoor-Mensch?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 26,
+      "content": "Bevorzugst du japanisches, westliches oder chinesisches Essen?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 27,
+      "content": "Bevorzugst du Solo-Reisen oder Reisen mit Freunden?",
+      "category": "Reisen"
+    },
+    {
+      "id": 28,
+      "content": "Was ist dir in deiner Karriere wichtig?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 29,
+      "content": "Welche sozialen Medien nutzt du und wie?",
+      "category": "Technologie"
+    },
+    {
+      "id": 30,
+      "content": "Was hat dich kürzlich zum Lachen gebracht oder glücklich gemacht?",
+      "category": "Alltag"
+    }
+  ]
+}

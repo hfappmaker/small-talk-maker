@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Gesprächsthemen Generator",
+    "description": "Eine Webanwendung, die zufällige Gesprächsthemen vorschlägt"
+  },
+  "header": {
+    "title": "Gesprächsthemen Generator",
+    "subtitle": "Schlägt zufällige Gesprächsthemen vor"
+  },
+  "button": {
+    "showTopic": "Thema Anzeigen"
+  },
+  "topicCard": {
+    "emptyState": "Klicken Sie auf die Schaltfläche, um ein Thema anzuzeigen"
+  },
+  "error": {
+    "fetchFailed": "Fehler beim Abrufen des Themas:"
+  },
+  "languageSwitcher": {
+    "label": "Sprache"
+  }
+}

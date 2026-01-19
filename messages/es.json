@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Generador de Temas",
+    "description": "Una aplicación web que sugiere temas de conversación al azar"
+  },
+  "header": {
+    "title": "Generador de Temas",
+    "subtitle": "Sugiere temas de conversación al azar"
+  },
+  "button": {
+    "showTopic": "Mostrar Tema"
+  },
+  "topicCard": {
+    "emptyState": "Haga clic en el botón para mostrar un tema"
+  },
+  "error": {
+    "fetchFailed": "Error al obtener el tema:"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}

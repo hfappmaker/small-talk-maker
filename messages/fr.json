@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Générateur de Sujets",
+    "description": "Une application web qui suggère des sujets de conversation aléatoires"
+  },
+  "header": {
+    "title": "Générateur de Sujets",
+    "subtitle": "Suggère des sujets de conversation aléatoires"
+  },
+  "button": {
+    "showTopic": "Afficher le Sujet"
+  },
+  "topicCard": {
+    "emptyState": "Cliquez sur le bouton pour afficher un sujet"
+  },
+  "error": {
+    "fetchFailed": "Échec de la récupération du sujet:"
+  },
+  "languageSwitcher": {
+    "label": "Langue"
+  }
+}

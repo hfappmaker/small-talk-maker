@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "闲聊话题生成器",
+    "description": "随机推荐闲聊话题的网络应用"
+  },
+  "header": {
+    "title": "闲聊话题生成器",
+    "subtitle": "随机推荐闲聊话题"
+  },
+  "button": {
+    "showTopic": "显示话题"
+  },
+  "topicCard": {
+    "emptyState": "点击按钮显示话题"
+  },
+  "error": {
+    "fetchFailed": "获取话题失败："
+  },
+  "languageSwitcher": {
+    "label": "语言"
+  }
+}

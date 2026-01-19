@@ -1,14 +1,14 @@
 import { Topic } from "@/types/topic";
-import topicsData from "@/data/topics.json";
 
-export function getAllTopics(): Topic[] {
+export async function getAllTopics(locale: string): Promise<Topic[]> {
+  const topicsData = await import(`@/data/topics/${locale}.json`);
   return topicsData.topics;
 }
 
-export function getRandomTopic(excludeTopicId?: number): Topic {
-  let availableTopics = getAllTopics();
+export async function getRandomTopic(locale: string, excludeTopicId?: number): Promise<Topic> {
+  const availableTopicsAll = await getAllTopics(locale);
+  let availableTopics = availableTopicsAll;
 
-  // 前回のトピックを除外（利用可能なトピックが2つ以上ある場合のみ）
   if (excludeTopicId !== undefined && availableTopics.length > 1) {
     availableTopics = availableTopics.filter(
       (topic) => topic.id !== excludeTopicId
