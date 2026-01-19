@@ -2,12 +2,12 @@
 
 import { useLocale, useTranslations } from "next-intl";
 import { useRouter, usePathname } from "next/navigation";
-import { locales, localeNames, localeFlags } from "@/lib/i18n/config";
+import { locales, localeNames, localeFlags, type Locale } from "@/lib/i18n/config";
 import { useState, useRef, useEffect } from "react";
 
 export default function LanguageSwitcher() {
   const t = useTranslations('languageSwitcher');
-  const locale = useLocale();
+  const locale = useLocale() as Locale;
   const router = useRouter();
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
