@@ -150,15 +150,16 @@
     "sections": {
       "operator": {
         "heading": "운영자",
-        "name": "[운영자명]"
+        "name": "주식회사 FlowTech"
       },
       "email": {
         "heading": "문의",
-        "address": "contact@example.com"
+        "address": "https://forms.gle/BgoJkYPkxVtn5eCg6",
+        "linkText": "문의 양식"
       },
       "purpose": {
         "heading": "문의 목적",
-        "content": "본 서비스에 대한 질문, 의견, 제안 또는 문제 보고를 원하시면 위 이메일 주소로 언제든지 연락해 주세요."
+        "content": "본 서비스에 대한 질문, 의견, 제안 또는 문제 보고를 원하시면 위의 문의 양식을 이용해 주세요."
       },
       "response": {
         "heading": "응답 시간",

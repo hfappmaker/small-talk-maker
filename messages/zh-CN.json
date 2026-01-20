@@ -150,15 +150,16 @@
     "sections": {
       "operator": {
         "heading": "运营方",
-        "name": "[运营方名称]"
+        "name": "FlowTech株式会社"
       },
       "email": {
         "heading": "联系方式",
-        "address": "contact@example.com"
+        "address": "https://forms.gle/BgoJkYPkxVtn5eCg6",
+        "linkText": "联系表单"
       },
       "purpose": {
         "heading": "联系目的",
-        "content": "如果您对本服务有任何疑问、意见、建议或希望报告问题，请随时通过上述电子邮件地址与我们联系。"
+        "content": "如果您对本服务有任何疑问、意见、建议或希望报告问题,请随时使用上述联系表单与我们联系。"
       },
       "response": {
         "heading": "响应时间",

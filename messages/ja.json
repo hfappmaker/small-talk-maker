@@ -150,15 +150,16 @@
     "sections": {
       "operator": {
         "heading": "運営者",
-        "name": "[運営者名]"
+        "name": "株式会社FlowTech"
       },
       "email": {
         "heading": "お問い合わせ",
-        "address": "contact@example.com"
+        "address": "https://forms.gle/BgoJkYPkxVtn5eCg6",
+        "linkText": "お問い合わせフォーム"
       },
       "purpose": {
         "heading": "お問い合わせ内容",
-        "content": "当サービスに関するご質問、ご意見、ご要望、不具合の報告などがございましたら、上記メールアドレスまでお気軽にお問い合わせください。"
+        "content": "当サービスに関するご質問、ご意見、ご要望、不具合の報告などがございましたら、上記のお問い合わせフォームよりお気軽にお問い合わせください。"
       },
       "response": {
         "heading": "返信について",

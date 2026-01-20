@@ -150,15 +150,16 @@
     "sections": {
       "operator": {
         "heading": "Opérateur",
-        "name": "[Nom de l'Opérateur]"
+        "name": "FlowTech Inc."
       },
       "email": {
         "heading": "Contact",
-        "address": "contact@example.com"
+        "address": "https://forms.gle/BgoJkYPkxVtn5eCg6",
+        "linkText": "Formulaire de contact"
       },
       "purpose": {
         "heading": "Objectif du Contact",
-        "content": "Si vous avez des questions, des commentaires, des suggestions, ou si vous souhaitez signaler des problèmes concernant le Service, veuillez nous contacter à l'adresse e-mail ci-dessus."
+        "content": "Si vous avez des questions, des commentaires, des suggestions, ou si vous souhaitez signaler des problèmes concernant le Service, veuillez utiliser le formulaire de contact ci-dessus."
       },
       "response": {
         "heading": "Délai de Réponse",

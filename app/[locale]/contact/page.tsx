@@ -23,10 +23,12 @@ export default function ContactPage() {
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
           <a
-            href={`mailto:${t('sections.email.address')}`}
+            href={t('sections.email.address')}
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-blue-600 dark:text-blue-400 hover:underline"
           >
-            {t('sections.email.address')}
+            {t('sections.email.linkText')}
           </a>
         </p>
       </section>
