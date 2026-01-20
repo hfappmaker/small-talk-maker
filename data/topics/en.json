@@ -249,6 +249,756 @@
       "id": 50,
       "content": "What do you like to do when hanging out with friends?",
       "category": "Family & Friends"
+    },
+    {
+      "id": 51,
+      "content": "Do you have any pets? What kind?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 52,
+      "content": "What's your favorite animal and why?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 53,
+      "content": "Do you enjoy visiting zoos or aquariums?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 54,
+      "content": "Are you a dog person, cat person, or prefer other animals?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 55,
+      "content": "What's the best thing about living with pets?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 56,
+      "content": "Any recommendations for places to interact with animals?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 57,
+      "content": "Have you ever seen wild animals? Where?",
+      "category": "Pets & Animals"
+    },
+    {
+      "id": 58,
+      "content": "What do you pay attention to with fashion?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 59,
+      "content": "Do you have favorite brands or shops?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 60,
+      "content": "What's important to you about beauty and grooming?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 61,
+      "content": "What's a recent fashion item you're glad you bought?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 62,
+      "content": "What do you do for skincare or haircare?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 63,
+      "content": "What's your main focus when dressing up?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 64,
+      "content": "Do you follow fashion trends?",
+      "category": "Fashion & Beauty"
+    },
+    {
+      "id": 65,
+      "content": "What environmental issues concern you?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 66,
+      "content": "What eco-friendly practices do you follow?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 67,
+      "content": "Do you enjoy spending time in nature?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 68,
+      "content": "What's your favorite season and natural scenery?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 69,
+      "content": "Have you been hiking or mountain climbing?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 70,
+      "content": "What do you do to recycle or reduce waste?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 71,
+      "content": "Have you participated in environmental activities?",
+      "category": "Environment & Nature"
+    },
+    {
+      "id": 72,
+      "content": "What do you focus on for money management?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 73,
+      "content": "Do you save or invest money?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 74,
+      "content": "What's your criteria for spending versus saving?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 75,
+      "content": "What's a recent purchase you felt good about?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 76,
+      "content": "Do you use cashless payment methods?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 77,
+      "content": "What economic news interests you?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 78,
+      "content": "What are you learning about money and finance?",
+      "category": "Money & Finance"
+    },
+    {
+      "id": 79,
+      "content": "What's your favorite art or artwork?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 80,
+      "content": "Do you like visiting museums or art galleries?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 81,
+      "content": "Are you interested in traditional culture or crafts?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 82,
+      "content": "Have you seen any theater or musicals?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 83,
+      "content": "Do you enjoy photography or drawing?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 84,
+      "content": "What cultural events would you like to attend?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 85,
+      "content": "What aspects of your culture are you proud of?",
+      "category": "Culture & Arts"
+    },
+    {
+      "id": 86,
+      "content": "What games have you been playing recently?",
+      "category": "Gaming"
+    },
+    {
+      "id": 87,
+      "content": "What's your favorite game genre?",
+      "category": "Gaming"
+    },
+    {
+      "id": 88,
+      "content": "Do you prefer online or offline games?",
+      "category": "Gaming"
+    },
+    {
+      "id": 89,
+      "content": "Do you play any mobile games?",
+      "category": "Gaming"
+    },
+    {
+      "id": 90,
+      "content": "Do you like board games or card games?",
+      "category": "Gaming"
+    },
+    {
+      "id": 91,
+      "content": "What's the most memorable game you've played?",
+      "category": "Gaming"
+    },
+    {
+      "id": 92,
+      "content": "Do you watch or play esports?",
+      "category": "Gaming"
+    },
+    {
+      "id": 93,
+      "content": "What values are important to you in life?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 94,
+      "content": "When do you feel most happy?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 95,
+      "content": "What are your dreams or goals for the future?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 96,
+      "content": "Who or what has influenced you most in life?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 97,
+      "content": "What do you regret and what have you learned?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 98,
+      "content": "What do you want to try but haven't yet?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 99,
+      "content": "What do you think are your strengths and weaknesses?",
+      "category": "Life Philosophy & Values"
+    },
+    {
+      "id": 100,
+      "content": "What's your favorite season and why?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 101,
+      "content": "How do you like to spend each season?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 102,
+      "content": "How do you usually spend New Year's?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 103,
+      "content": "How do you celebrate Christmas?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 104,
+      "content": "Do you do anything special for your birthday?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 105,
+      "content": "Do you enjoy cherry blossom viewing or autumn foliage?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 106,
+      "content": "What's your favorite annual event or celebration?",
+      "category": "Seasons & Events"
+    },
+    {
+      "id": 107,
+      "content": "Do you like reading? What genres?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 108,
+      "content": "Do you watch manga or anime? Any recommendations?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 109,
+      "content": "Can you play any instruments? Which ones would you like to learn?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 110,
+      "content": "Are you interested in DIY or handmade crafts?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 111,
+      "content": "Do you enjoy photography?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 112,
+      "content": "Do you do any gardening?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 113,
+      "content": "Do you collect anything?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 114,
+      "content": "What dishes are you good at or enjoy cooking?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 115,
+      "content": "Do you drink alcohol? What's your favorite type?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 116,
+      "content": "Do you enjoy cafe hopping? Any recommendations?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 117,
+      "content": "What local or street food do you like?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 118,
+      "content": "Do you prefer buffets or course meals?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 119,
+      "content": "What ingredients or seasonings are you into lately?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 120,
+      "content": "What international cuisines do you enjoy?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 121,
+      "content": "Which countries have you enjoyed visiting?",
+      "category": "Travel"
+    },
+    {
+      "id": 122,
+      "content": "Do you plan trips carefully or go spontaneously?",
+      "category": "Travel"
+    },
+    {
+      "id": 123,
+      "content": "What souvenirs do you always buy when traveling?",
+      "category": "Travel"
+    },
+    {
+      "id": 124,
+      "content": "Are you interested in backpacking?",
+      "category": "Travel"
+    },
+    {
+      "id": 125,
+      "content": "Do you prefer beach resorts or city sightseeing?",
+      "category": "Travel"
+    },
+    {
+      "id": 126,
+      "content": "What domestic tourist spots would you recommend?",
+      "category": "Travel"
+    },
+    {
+      "id": 127,
+      "content": "Do you prefer cultural experiences or visiting famous landmarks?",
+      "category": "Travel"
+    },
+    {
+      "id": 128,
+      "content": "Have you considered changing jobs or departments?",
+      "category": "Work"
+    },
+    {
+      "id": 129,
+      "content": "What's your ideal way of working?",
+      "category": "Work"
+    },
+    {
+      "id": 130,
+      "content": "When do you feel most fulfilled at work?",
+      "category": "Work"
+    },
+    {
+      "id": 131,
+      "content": "What's important to you in workplace relationships?",
+      "category": "Work"
+    },
+    {
+      "id": 132,
+      "content": "What are you studying to improve your skills?",
+      "category": "Work"
+    },
+    {
+      "id": 133,
+      "content": "What have you learned from work failures?",
+      "category": "Work"
+    },
+    {
+      "id": 134,
+      "content": "Are you interested in side jobs or multiple careers?",
+      "category": "Work"
+    },
+    {
+      "id": 135,
+      "content": "What technology trends interest you?",
+      "category": "Technology"
+    },
+    {
+      "id": 136,
+      "content": "Do you use smart home devices?",
+      "category": "Technology"
+    },
+    {
+      "id": 137,
+      "content": "Have you tried VR or AR experiences?",
+      "category": "Technology"
+    },
+    {
+      "id": 138,
+      "content": "Are you interested in programming or coding?",
+      "category": "Technology"
+    },
+    {
+      "id": 139,
+      "content": "How has technology made your life more convenient?",
+      "category": "Technology"
+    },
+    {
+      "id": 140,
+      "content": "Are you interested in electric cars or autonomous driving?",
+      "category": "Technology"
+    },
+    {
+      "id": 141,
+      "content": "What subscription services do you use?",
+      "category": "Technology"
+    },
+    {
+      "id": 142,
+      "content": "What's your morning routine?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 143,
+      "content": "How do you spend your evening relaxation time?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 144,
+      "content": "Do you like cleaning? Any tips?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 145,
+      "content": "What do you do during your commute?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 146,
+      "content": "How do you enjoy rainy days?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 147,
+      "content": "What are the small joys in your daily life?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 148,
+      "content": "What habits have you developed in your life?",
+      "category": "Daily Life"
+    },
+    {
+      "id": 149,
+      "content": "Do you run or jog?",
+      "category": "Sports"
+    },
+    {
+      "id": 150,
+      "content": "Do you go to a gym or fitness center?",
+      "category": "Sports"
+    },
+    {
+      "id": 151,
+      "content": "Are you interested in yoga or pilates?",
+      "category": "Sports"
+    },
+    {
+      "id": 152,
+      "content": "Who's your favorite athlete?",
+      "category": "Sports"
+    },
+    {
+      "id": 153,
+      "content": "Do you like watching sports? In person or on TV?",
+      "category": "Sports"
+    },
+    {
+      "id": 154,
+      "content": "Have you tried marathons or triathlons?",
+      "category": "Sports"
+    },
+    {
+      "id": 155,
+      "content": "Do you like winter sports like skiing or snowboarding?",
+      "category": "Sports"
+    },
+    {
+      "id": 156,
+      "content": "What have you watched recently on Netflix or Amazon Prime?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 157,
+      "content": "Who's your favorite director or actor?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 158,
+      "content": "Do you listen to podcasts or radio?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 159,
+      "content": "What YouTube channels do you enjoy?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 160,
+      "content": "Do you prefer watching movies at theaters or at home?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 161,
+      "content": "Do you like comedy?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 162,
+      "content": "Do you watch documentaries?",
+      "category": "Entertainment"
+    },
+    {
+      "id": 163,
+      "content": "How are your health checkup results?",
+      "category": "Health"
+    },
+    {
+      "id": 164,
+      "content": "Do you take supplements or health foods?",
+      "category": "Health"
+    },
+    {
+      "id": 165,
+      "content": "Do you have a stretching or exercise routine?",
+      "category": "Health"
+    },
+    {
+      "id": 166,
+      "content": "Do you get massages or chiropractic treatment?",
+      "category": "Health"
+    },
+    {
+      "id": 167,
+      "content": "What's important to you for mental health care?",
+      "category": "Health"
+    },
+    {
+      "id": 168,
+      "content": "Do you pay attention to balanced meals?",
+      "category": "Health"
+    },
+    {
+      "id": 169,
+      "content": "What exercise habits do you have for health?",
+      "category": "Health"
+    },
+    {
+      "id": 170,
+      "content": "Do you use online learning or e-learning?",
+      "category": "Learning"
+    },
+    {
+      "id": 171,
+      "content": "Are you learning any languages?",
+      "category": "Learning"
+    },
+    {
+      "id": 172,
+      "content": "Have you joined any book clubs or study groups?",
+      "category": "Learning"
+    },
+    {
+      "id": 173,
+      "content": "What effective learning methods or memory techniques do you use?",
+      "category": "Learning"
+    },
+    {
+      "id": 174,
+      "content": "What would you like to study at university or college?",
+      "category": "Learning"
+    },
+    {
+      "id": 175,
+      "content": "What topics spark your intellectual curiosity?",
+      "category": "Learning"
+    },
+    {
+      "id": 176,
+      "content": "Do you read self-help or business books?",
+      "category": "Learning"
+    },
+    {
+      "id": 177,
+      "content": "What's important to you about family time?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 178,
+      "content": "What important lessons did your parents or grandparents teach you?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 179,
+      "content": "How often do you see your friends?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 180,
+      "content": "Do you still keep in touch with school friends?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 181,
+      "content": "Are you good at making friends? How do you become friends?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 182,
+      "content": "Do you have close friends you consider best friends?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 183,
+      "content": "What are your memories of family or friend trips?",
+      "category": "Family & Friends"
+    },
+    {
+      "id": 184,
+      "content": "Do you have a car? Do you enjoy driving?",
+      "category": "Other"
+    },
+    {
+      "id": 185,
+      "content": "What do you do on trains or buses?",
+      "category": "Other"
+    },
+    {
+      "id": 186,
+      "content": "Do you believe in fortune telling or feng shui?",
+      "category": "Other"
+    },
+    {
+      "id": 187,
+      "content": "Have you done any volunteer work?",
+      "category": "Other"
+    },
+    {
+      "id": 188,
+      "content": "Do you participate in community activities?",
+      "category": "Other"
+    },
+    {
+      "id": 189,
+      "content": "How many times have you moved?",
+      "category": "Other"
+    },
+    {
+      "id": 190,
+      "content": "What's your ideal living situation?",
+      "category": "Other"
+    },
+    {
+      "id": 191,
+      "content": "What are you doing now to achieve your dreams and goals?",
+      "category": "Other"
+    },
+    {
+      "id": 192,
+      "content": "What would you do if you had more time?",
+      "category": "Other"
+    },
+    {
+      "id": 193,
+      "content": "What's your motto or favorite quote?",
+      "category": "Other"
+    },
+    {
+      "id": 194,
+      "content": "What moved you recently?",
+      "category": "Other"
+    },
+    {
+      "id": 195,
+      "content": "How do you reward yourself?",
+      "category": "Other"
+    },
+    {
+      "id": 196,
+      "content": "Where do you want to be in 10 years?",
+      "category": "Other"
+    },
+    {
+      "id": 197,
+      "content": "What would you do if you won the lottery?",
+      "category": "Other"
+    },
+    {
+      "id": 198,
+      "content": "If you could only bring one thing to a deserted island, what would it be?",
+      "category": "Other"
+    },
+    {
+      "id": 199,
+      "content": "Is there anything you feel you haven't done in life?",
+      "category": "Other"
+    },
+    {
+      "id": 200,
+      "content": "What do you want most right now?",
+      "category": "Other"
     }
   ]
 }

@@ -249,6 +249,756 @@
       "id": 50,
       "content": "Was machst du gerne, wenn du mit Freunden zusammen bist?",
       "category": "Familie & Freunde"
+    },
+    {
+      "id": 51,
+      "content": "Hast du ein Haustier? Was für eins?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 52,
+      "content": "Welches Tier findest du am süßesten?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 53,
+      "content": "Bevorzugst du Hunde oder Katzen?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 54,
+      "content": "Bist du schon mal in einen Zoo oder ein Aquarium gegangen?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 55,
+      "content": "Welches Tier würdest du gerne als Haustier haben?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 56,
+      "content": "Hast du eine lustige Geschichte über ein Tier?",
+      "category": "Haustiere & Tiere"
+    },
+    {
+      "id": 57,
+      "content": "Welche Art von Mode magst du?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 58,
+      "content": "Hast du eine Lieblingsmarke oder einen Lieblingsladen?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 59,
+      "content": "Bevorzugst du bequeme oder stylische Kleidung?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 60,
+      "content": "Was ist dein Geheimtipp für Hautpflege oder Make-up?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 61,
+      "content": "Wie oft gehst du zum Friseur?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 62,
+      "content": "Was ist dein Lieblingsparfüm oder -duft?",
+      "category": "Mode & Schönheit"
+    },
+    {
+      "id": 63,
+      "content": "Machst du dir Sorgen über Umweltprobleme?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 64,
+      "content": "Was tust du für die Umwelt?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 65,
+      "content": "Gehst du gerne in die Natur oder machst Outdoor-Aktivitäten?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 66,
+      "content": "Welche Jahreszeit magst du am liebsten?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 67,
+      "content": "Was ist dein Lieblingsplatz in der Natur?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 68,
+      "content": "Hast du schon mal Gartenarbeit oder Pflanzenpflege gemacht?",
+      "category": "Umwelt & Natur"
+    },
+    {
+      "id": 69,
+      "content": "Wie gehst du mit deinem Geld um?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 70,
+      "content": "Investierst oder sparst du?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 71,
+      "content": "Was würdest du tun, wenn du im Lotto gewinnen würdest?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 72,
+      "content": "Was ist die größte Ausgabe, die du je getätigt hast?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 73,
+      "content": "Bist du eher sparsam oder gibst du Geld aus?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 74,
+      "content": "Hast du einen Nebenjob oder eine Nebenbeschäftigung?",
+      "category": "Geld & Finanzen"
+    },
+    {
+      "id": 75,
+      "content": "Welche Art von Kunst magst du?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 76,
+      "content": "Bist du schon mal in ein Museum oder eine Galerie gegangen?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 77,
+      "content": "Spielst du ein Musikinstrument?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 78,
+      "content": "Was ist dein Lieblingskünstler oder -werk?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 79,
+      "content": "Interessierst du dich für traditionelle Kultur oder Geschichte?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 80,
+      "content": "Hast du schon mal etwas kreatives gemacht (Malen, Schreiben, etc.)?",
+      "category": "Kultur & Kunst"
+    },
+    {
+      "id": 81,
+      "content": "Was spielst du gerade für ein Spiel?",
+      "category": "Gaming"
+    },
+    {
+      "id": 82,
+      "content": "Was ist dein Lieblingsspielgenre?",
+      "category": "Gaming"
+    },
+    {
+      "id": 83,
+      "content": "Spielst du lieber Konsolen-, PC- oder mobile Spiele?",
+      "category": "Gaming"
+    },
+    {
+      "id": 84,
+      "content": "Was ist das beste Spiel, das du je gespielt hast?",
+      "category": "Gaming"
+    },
+    {
+      "id": 85,
+      "content": "Spielst du online mit Freunden?",
+      "category": "Gaming"
+    },
+    {
+      "id": 86,
+      "content": "Bist du eher ein Casual- oder Hardcore-Gamer?",
+      "category": "Gaming"
+    },
+    {
+      "id": 87,
+      "content": "Was ist dir im Leben am wichtigsten?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 88,
+      "content": "Was ist dein Lebensziel oder Traum?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 89,
+      "content": "Hast du einen Lebens-Mentor oder ein Vorbild?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 90,
+      "content": "Was machst du, wenn du eine schwierige Entscheidung treffen musst?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 91,
+      "content": "Was ist eine wichtige Lektion, die du gelernt hast?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 92,
+      "content": "Was würdest du deinem jüngeren Ich raten?",
+      "category": "Lebensphilosophie & Werte"
+    },
+    {
+      "id": 93,
+      "content": "Was machst du gerne im Frühling?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 94,
+      "content": "Wie verbringst du den Sommer?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 95,
+      "content": "Was magst du am Herbst?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 96,
+      "content": "Wie verbringst du die Winterzeit?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 97,
+      "content": "Was ist deine Lieblings-Jahreszeit?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 98,
+      "content": "Wie verbringst du Weihnachten oder Neujahr?",
+      "category": "Jahreszeiten & Veranstaltungen"
+    },
+    {
+      "id": 99,
+      "content": "Welches Buch hat dein Leben verändert?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 100,
+      "content": "Liest du lieber Romane oder Sachbücher?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 101,
+      "content": "Gehst du gerne ins Kino?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 102,
+      "content": "Magst du Puzzles oder Rätsel?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 103,
+      "content": "Sammelst du etwas?",
+      "category": "Hobbys"
+    },
+    {
+      "id": 104,
+      "content": "Was ist das leckerste Essen, das du je gegessen hast?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 105,
+      "content": "Magst du scharfes Essen?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 106,
+      "content": "Welche internationale Küche magst du?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 107,
+      "content": "Frühstückst du jeden Tag?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 108,
+      "content": "Was ist dein Lieblings-Snack?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 109,
+      "content": "Trinkst du gerne Kaffee oder Tee?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 110,
+      "content": "Welches Land möchtest du unbedingt besuchen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 111,
+      "content": "Bevorzugst du Flugreisen oder Zugreisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 112,
+      "content": "Welche Reise war am eindrucksvollsten?",
+      "category": "Reisen"
+    },
+    {
+      "id": 113,
+      "content": "Planst du Reisen im Voraus oder spontan?",
+      "category": "Reisen"
+    },
+    {
+      "id": 114,
+      "content": "Bevorzugst du städtische oder ländliche Reiseziele?",
+      "category": "Reisen"
+    },
+    {
+      "id": 115,
+      "content": "Bist du schon mal alleine gereist?",
+      "category": "Reisen"
+    },
+    {
+      "id": 116,
+      "content": "Was motiviert dich bei der Arbeit?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 117,
+      "content": "Wie gehst du mit Stress bei der Arbeit um?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 118,
+      "content": "Hast du einen Traumberuf?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 119,
+      "content": "Was ist wichtiger: Gehalt oder Zufriedenheit?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 120,
+      "content": "Arbeitest du gerne im Team oder alleine?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 121,
+      "content": "Welche neue Technologie begeistert dich?",
+      "category": "Technologie"
+    },
+    {
+      "id": 122,
+      "content": "Nutzt du Smart-Home-Geräte?",
+      "category": "Technologie"
+    },
+    {
+      "id": 123,
+      "content": "Was denkst du über Virtual Reality?",
+      "category": "Technologie"
+    },
+    {
+      "id": 124,
+      "content": "Wie viele Stunden verbringst du täglich am Smartphone?",
+      "category": "Technologie"
+    },
+    {
+      "id": 125,
+      "content": "Bist du Apple- oder Android-Fan?",
+      "category": "Technologie"
+    },
+    {
+      "id": 126,
+      "content": "Was war das Beste an deinem heutigen Tag?",
+      "category": "Alltag"
+    },
+    {
+      "id": 127,
+      "content": "Wie ist deine Morgenroutine?",
+      "category": "Alltag"
+    },
+    {
+      "id": 128,
+      "content": "Was machst du vor dem Schlafengehen?",
+      "category": "Alltag"
+    },
+    {
+      "id": 129,
+      "content": "Hast du eine glücksbringende Routine?",
+      "category": "Alltag"
+    },
+    {
+      "id": 130,
+      "content": "Was ist deine Lieblings-Tageszeit?",
+      "category": "Alltag"
+    },
+    {
+      "id": 131,
+      "content": "Welchen Sport möchtest du ausprobieren?",
+      "category": "Sport"
+    },
+    {
+      "id": 132,
+      "content": "Schaust du dir Sportveranstaltungen an?",
+      "category": "Sport"
+    },
+    {
+      "id": 133,
+      "content": "Bist du gut in Sport?",
+      "category": "Sport"
+    },
+    {
+      "id": 134,
+      "content": "Machst du gerne Yoga oder Stretching?",
+      "category": "Sport"
+    },
+    {
+      "id": 135,
+      "content": "Gehst du gerne schwimmen?",
+      "category": "Sport"
+    },
+    {
+      "id": 136,
+      "content": "Was ist dein Lieblings-YouTube-Kanal?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 137,
+      "content": "Hörst du Podcasts? Welche?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 138,
+      "content": "Was ist deine Lieblings-Comedy oder dein Lieblingskomiker?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 139,
+      "content": "Schaust du gerne Anime oder Cartoons?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 140,
+      "content": "Was ist dein Lieblings-Streaming-Dienst?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 141,
+      "content": "Achtest du auf deine Ernährung?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 142,
+      "content": "Nimmst du Nahrungsergänzungsmittel?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 143,
+      "content": "Wie gehst du mit Erkältungen um?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 144,
+      "content": "Machst du regelmäßig Gesundheits-Check-ups?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 145,
+      "content": "Was machst du für deine mentale Gesundheit?",
+      "category": "Gesundheit"
+    },
+    {
+      "id": 146,
+      "content": "Welche Sprache möchtest du lernen?",
+      "category": "Lernen"
+    },
+    {
+      "id": 147,
+      "content": "Was war dein Lieblingsfach in der Schule?",
+      "category": "Lernen"
+    },
+    {
+      "id": 148,
+      "content": "Nimmst du an Online-Kursen teil?",
+      "category": "Lernen"
+    },
+    {
+      "id": 149,
+      "content": "Wie erinnerst du dich an neue Dinge?",
+      "category": "Lernen"
+    },
+    {
+      "id": 150,
+      "content": "Welche Fähigkeit möchtest du dir aneignen?",
+      "category": "Lernen"
+    },
+    {
+      "id": 151,
+      "content": "Wie oft triffst du deine Familie?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 152,
+      "content": "Was machst du gerne mit deiner Familie?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 153,
+      "content": "Hast du einen engen Freund?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 154,
+      "content": "Wie hast du deinen besten Freund kennengelernt?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 155,
+      "content": "Was ist wichtig für eine gute Freundschaft?",
+      "category": "Familie & Freunde"
+    },
+    {
+      "id": 156,
+      "content": "Hast du einen Spitznamen?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 157,
+      "content": "Glaubst du an Glück oder Unglück?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 158,
+      "content": "Was ist deine Superpower, wenn du eine hättest?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 159,
+      "content": "Bevorzugst du die Stadt oder das Land?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 160,
+      "content": "Was ist dein Lieblings-Kindheitsspiel?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 161,
+      "content": "Welche Fähigkeit möchtest du sofort beherrschen?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 162,
+      "content": "Was macht dich glücklich?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 163,
+      "content": "Was ist deine Definition von Erfolg?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 164,
+      "content": "Triffst du lieber viele Menschen oder wenige enge Freunde?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 165,
+      "content": "Was ist dein Lieblings-Zitat oder -Motto?",
+      "category": "Sonstiges"
+    },
+    {
+      "id": 166,
+      "content": "Kochst du gerne? Was ist dein Spezialität?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 167,
+      "content": "Magst du Süßes oder Herzhaftes?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 168,
+      "content": "Gehst du gerne zu Food-Festivals?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 169,
+      "content": "Ist dir das Aussehen des Essens wichtig?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 170,
+      "content": "Hast du Lebensmittel-Allergien oder Unverträglichkeiten?",
+      "category": "Gourmet"
+    },
+    {
+      "id": 171,
+      "content": "Kaufst du lieber Souvenirs für dich oder für andere?",
+      "category": "Reisen"
+    },
+    {
+      "id": 172,
+      "content": "Bevorzugst du Luxushotels oder Budget-Unterkünfte?",
+      "category": "Reisen"
+    },
+    {
+      "id": 173,
+      "content": "Was ist das Wichtigste bei einer Reise?",
+      "category": "Reisen"
+    },
+    {
+      "id": 174,
+      "content": "Hast du schon mal einen Reise-Vlog gemacht?",
+      "category": "Reisen"
+    },
+    {
+      "id": 175,
+      "content": "Welche Aktivität machst du gerne auf Reisen?",
+      "category": "Reisen"
+    },
+    {
+      "id": 176,
+      "content": "Magst du flexible Arbeitszeiten?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 177,
+      "content": "Was ist dein idealer Arbeitsplatz?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 178,
+      "content": "Nimmst du aktiv an Weiterbildungen teil?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 179,
+      "content": "Was war dein größter Arbeitserfolg?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 180,
+      "content": "Hast du einen Mentor bei der Arbeit?",
+      "category": "Arbeit"
+    },
+    {
+      "id": 181,
+      "content": "Interessierst du dich für Kryptowährungen?",
+      "category": "Technologie"
+    },
+    {
+      "id": 182,
+      "content": "Nutzt du Cloud-Speicher?",
+      "category": "Technologie"
+    },
+    {
+      "id": 183,
+      "content": "Was denkst du über selbstfahrende Autos?",
+      "category": "Technologie"
+    },
+    {
+      "id": 184,
+      "content": "Nutzt du Passwort-Manager?",
+      "category": "Technologie"
+    },
+    {
+      "id": 185,
+      "content": "Wie wichtig ist dir Online-Privatsphäre?",
+      "category": "Technologie"
+    },
+    {
+      "id": 186,
+      "content": "Was ist deine beste Gewohnheit?",
+      "category": "Alltag"
+    },
+    {
+      "id": 187,
+      "content": "Hast du eine Bucket List?",
+      "category": "Alltag"
+    },
+    {
+      "id": 188,
+      "content": "Wie organisierst du deinen Tag?",
+      "category": "Alltag"
+    },
+    {
+      "id": 189,
+      "content": "Räumst du regelmäßig auf?",
+      "category": "Alltag"
+    },
+    {
+      "id": 190,
+      "content": "Was ist eine Sache, die du ändern möchtest?",
+      "category": "Alltag"
+    },
+    {
+      "id": 191,
+      "content": "Schaust du dir die Olympischen Spiele an?",
+      "category": "Sport"
+    },
+    {
+      "id": 192,
+      "content": "Machst du lieber Cardio oder Krafttraining?",
+      "category": "Sport"
+    },
+    {
+      "id": 193,
+      "content": "Hast du schon mal an einem Marathon teilgenommen?",
+      "category": "Sport"
+    },
+    {
+      "id": 194,
+      "content": "Welche Sportausrüstung besitzt du?",
+      "category": "Sport"
+    },
+    {
+      "id": 195,
+      "content": "Machst du gerne Outdoor-Sport?",
+      "category": "Sport"
+    },
+    {
+      "id": 196,
+      "content": "Was ist dein Guilty-Pleasure-Film oder -Serie?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 197,
+      "content": "Schaust du gerne Reality-TV?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 198,
+      "content": "Was ist dein Lieblings-Filmzitat?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 199,
+      "content": "Gehst du gerne auf Konzerte oder Festivals?",
+      "category": "Unterhaltung"
+    },
+    {
+      "id": 200,
+      "content": "Was ist deine Lieblings-TV-Serie aller Zeiten?",
+      "category": "Unterhaltung"
     }
   ]
 }

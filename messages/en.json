@@ -18,5 +18,152 @@
   },
   "languageSwitcher": {
     "label": "Language"
+  },
+  "footer": {
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "© 2026 Small Talk Maker. All rights reserved."
+  },
+  "navigation": {
+    "backToHome": "Back to Home"
+  },
+  "about": {
+    "title": "About Small Talk Maker",
+    "sections": {
+      "whatIs": {
+        "heading": "What is Small Talk Maker",
+        "content": "Small Talk Maker is a web application that randomly suggests conversation topics. It provides diverse topics from various categories such as hobbies, gourmet, travel, work, technology, daily life, and more."
+      },
+      "purpose": {
+        "heading": "Purpose",
+        "content": "It helps facilitate smooth conversations in various situations, including conversations with new acquaintances, breaking awkward silences, team building, and icebreakers."
+      },
+      "features": {
+        "heading": "Features",
+        "items": [
+          "Random topic generation",
+          "Support for 8 languages (Japanese, English, Chinese, Korean, Spanish, German, French, Portuguese)",
+          "Simple and easy-to-use interface",
+          "Compatible with smartphones, tablets, and PCs",
+          "No account registration required",
+          "Completely free"
+        ]
+      },
+      "howItWorks": {
+        "heading": "How to Use",
+        "content": "Simply click the 'Show Topic' button to display a randomly selected conversation topic. If you don't like the topic, you can click the button again to display a different one. You can select your preferred language from the language switcher menu in the top right corner."
+      },
+      "languages": {
+        "heading": "Supported Languages",
+        "list": "日本語, English, 简体中文, 한국어, Español, Deutsch, Français, Português"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: January 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introduction",
+        "content": "Small Talk Maker (the 'Service') respects user privacy and is committed to protecting personal information. This Privacy Policy explains what information the Service collects and how it is used."
+      },
+      "dataCollection": {
+        "heading": "Information We Collect",
+        "content": "The Service does not have a user account system and does not collect personally identifiable information (such as name, email address, or physical address). However, we may collect anonymous usage statistics (such as page views, language preferences, and device type) to improve the service and enhance user experience."
+      },
+      "cookies": {
+        "heading": "Use of Cookies",
+        "content": "The Service may use cookies and local storage to save your language preferences and improve service functionality. This data is stored in your browser and does not identify you personally. You can disable cookies in your browser settings, but some features may not function properly."
+      },
+      "thirdParty": {
+        "heading": "Third-Party Services",
+        "content": "The Service uses the following third-party services for advertising and analytics purposes.",
+        "adsense": {
+          "heading": "Google AdSense",
+          "content": "This site uses Google AdSense to serve advertisements. Google uses cookies to serve ads based on users' interests. You can opt out of personalized advertising by visiting Google's Ads Settings page (https://www.google.com/settings/ads). For more information, please refer to Google's Privacy Policy."
+        }
+      },
+      "dataSecurity": {
+        "heading": "Data Security",
+        "content": "The Service implements reasonable technical and organizational measures to ensure the security of collected data. However, transmission of information over the Internet is not completely secure, and we cannot guarantee absolute security."
+      },
+      "childrenPrivacy": {
+        "heading": "Children's Privacy",
+        "content": "The Service does not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information, please contact the operator."
+      },
+      "changes": {
+        "heading": "Changes to Privacy Policy",
+        "content": "The Service may update this Privacy Policy as needed. Changes will be posted on this page. We recommend checking this page periodically."
+      },
+      "contact": {
+        "heading": "Contact Us",
+        "content": "If you have any questions or concerns about this Privacy Policy, please contact us using the information on the Contact page."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: January 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Acceptance of Terms",
+        "content": "By using the Service, you agree to these Terms of Service. If you do not agree to these terms, please do not use the Service."
+      },
+      "serviceDescription": {
+        "heading": "Service Description",
+        "content": "Small Talk Maker is a free web application that randomly suggests conversation topics. Users can obtain topics by simply clicking a button without account registration."
+      },
+      "useLicense": {
+        "heading": "Use License",
+        "content": "The Service is provided free of charge for personal and non-commercial use only. You may not reproduce, distribute, modify, or commercially use the content, design, or functionality of the Service without prior written permission from the operator."
+      },
+      "userConduct": {
+        "heading": "User Conduct",
+        "content": "When using the Service, you must not engage in activities that violate laws or public morals, infringe on the rights of other users or third parties, interfere with the operation of the Service, or engage in any other inappropriate behavior."
+      },
+      "disclaimer": {
+        "heading": "Disclaimer",
+        "content": "The Service is provided 'as is'. The operator makes no warranties, express or implied, regarding the accuracy, completeness, usefulness, safety, or fitness for a particular purpose of the Service. The operator is not liable for any damages arising from the use of the Service."
+      },
+      "limitations": {
+        "heading": "Limitation of Liability",
+        "content": "The operator shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from or related to the use of the Service, even if advised of the possibility of such damages."
+      },
+      "intellectualProperty": {
+        "heading": "Intellectual Property",
+        "content": "All intellectual property rights in the content of the Service (including text, images, logos, and design) belong to the operator or legitimate rights holders. Users may not use this content without the operator's permission."
+      },
+      "modifications": {
+        "heading": "Modifications to Terms",
+        "content": "The operator may modify these Terms of Service as necessary. Modified terms take effect when posted on this page. Continued use of the Service after modifications constitutes acceptance of the modified terms."
+      },
+      "governingLaw": {
+        "heading": "Governing Law and Jurisdiction",
+        "content": "These terms shall be governed by and construed in accordance with the laws of Japan. Any disputes concerning the Service shall be subject to the exclusive jurisdiction of the court with jurisdiction over the operator's location."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Information",
+    "sections": {
+      "operator": {
+        "heading": "Operator",
+        "name": "[Operator Name]"
+      },
+      "email": {
+        "heading": "Contact",
+        "address": "contact@example.com"
+      },
+      "purpose": {
+        "heading": "Contact Purpose",
+        "content": "If you have any questions, comments, suggestions, or wish to report issues regarding the Service, please feel free to contact us at the email address above."
+      },
+      "response": {
+        "heading": "Response Time",
+        "content": "We will respond to inquiries as promptly as possible, but depending on the nature of the inquiry, it may take some time to respond. Please note that we may not be able to respond to all inquiries."
+      }
+    }
   }
 }

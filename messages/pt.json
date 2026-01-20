@@ -18,5 +18,152 @@
   },
   "languageSwitcher": {
     "label": "Idioma"
+  },
+  "footer": {
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contact": "Contato",
+    "copyright": "© 2026 Gerador de Tópicos. Todos os direitos reservados."
+  },
+  "navigation": {
+    "backToHome": "Voltar à Página Inicial"
+  },
+  "about": {
+    "title": "Sobre o Gerador de Tópicos",
+    "sections": {
+      "whatIs": {
+        "heading": "O que é o Gerador de Tópicos",
+        "content": "Gerador de Tópicos é uma aplicação web que sugere aleatoriamente tópicos de conversa. Oferece tópicos variados de várias categorias como hobbies, gastronomia, viagens, trabalho, tecnologia, vida cotidiana e muito mais."
+      },
+      "purpose": {
+        "heading": "Propósito",
+        "content": "Ajuda a facilitar conversas tranquilas em várias situações, incluindo conversas com novas conhecidas, quebrando silêncios constrangedores, construção de equipe e quebra-gelos."
+      },
+      "features": {
+        "heading": "Recursos",
+        "items": [
+          "Geração aleatória de tópicos",
+          "Suporte para 8 idiomas (Japonês, Inglês, Chinês, Coreano, Espanhol, Alemão, Francês, Português)",
+          "Interface simples e fácil de usar",
+          "Compatível com smartphones, tablets e PCs",
+          "Nenhum registro de conta necessário",
+          "Completamente gratuito"
+        ]
+      },
+      "howItWorks": {
+        "heading": "Como Usar",
+        "content": "Simplesmente clique no botão 'Mostrar Tópico' para exibir um tópico de conversa selecionado aleatoriamente. Se você não gostar do tópico, pode clicar no botão novamente para exibir um diferente. Você pode selecionar seu idioma preferido no menu seletor de idioma no canto superior direito."
+      },
+      "languages": {
+        "heading": "Idiomas Suportados",
+        "list": "日本語, English, 简体中文, 한국어, Español, Deutsch, Français, Português"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última Atualização: Janeiro de 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introdução",
+        "content": "Gerador de Tópicos (o 'Serviço') respeita a privacidade do usuário e está comprometido em proteger informações pessoais. Esta Política de Privacidade explica quais informações o Serviço coleta e como são usadas."
+      },
+      "dataCollection": {
+        "heading": "Informações que Coletamos",
+        "content": "O Serviço não possui um sistema de conta de usuário e não coleta informações pessoais identificáveis (como nome, endereço de e-mail ou endereço físico). No entanto, podemos coletar estatísticas de uso anônimas (como visualizações de página, preferências de idioma e tipo de dispositivo) para melhorar o serviço e aprimorar a experiência do usuário."
+      },
+      "cookies": {
+        "heading": "Uso de Cookies",
+        "content": "O Serviço pode usar cookies e armazenamento local para salvar suas preferências de idioma e melhorar a funcionalidade do serviço. Esses dados são armazenados no seu navegador e não o identificam pessoalmente. Você pode desabilitar cookies nas configurações do seu navegador, mas alguns recursos podem não funcionar corretamente."
+      },
+      "thirdParty": {
+        "heading": "Serviços de Terceiros",
+        "content": "O Serviço utiliza os seguintes serviços de terceiros para fins de publicidade e análise.",
+        "adsense": {
+          "heading": "Google AdSense",
+          "content": "Este site usa o Google AdSense para exibir anúncios. O Google usa cookies para exibir anúncios com base nos interesses dos usuários. Você pode optar por não receber publicidade personalizada visitando a página Configurações de Anúncios do Google (https://www.google.com/settings/ads). Para mais informações, consulte a Política de Privacidade do Google."
+        }
+      },
+      "dataSecurity": {
+        "heading": "Segurança de Dados",
+        "content": "O Serviço implementa medidas técnicas e organizacionais razoáveis para garantir a segurança dos dados coletados. No entanto, a transmissão de informações pela Internet não é completamente segura e não podemos garantir segurança absoluta."
+      },
+      "childrenPrivacy": {
+        "heading": "Privacidade das Crianças",
+        "content": "O Serviço não coleta intencionalmente informações pessoais de crianças menores de 13 anos. Se você é pai ou responsável e acredita que seu filho forneceu informações pessoais, entre em contato com o operador."
+      },
+      "changes": {
+        "heading": "Alterações na Política de Privacidade",
+        "content": "O Serviço pode atualizar esta Política de Privacidade conforme necessário. As alterações serão publicadas nesta página. Recomendamos que você verifique esta página periodicamente."
+      },
+      "contact": {
+        "heading": "Entre em Contato Conosco",
+        "content": "Se tiver dúvidas ou preocupações sobre esta Política de Privacidade, entre em contato conosco usando as informações na página de Contato."
+      }
+    }
+  },
+  "terms": {
+    "title": "Termos de Serviço",
+    "lastUpdated": "Última Atualização: Janeiro de 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Aceitação dos Termos",
+        "content": "Ao usar o Serviço, você concorda com estes Termos de Serviço. Se você não concordar com estes termos, não use o Serviço."
+      },
+      "serviceDescription": {
+        "heading": "Descrição do Serviço",
+        "content": "Gerador de Tópicos é uma aplicação web gratuita que sugere aleatoriamente tópicos de conversa. Os usuários podem obter tópicos simplesmente clicando em um botão sem registro de conta."
+      },
+      "useLicense": {
+        "heading": "Licença de Uso",
+        "content": "O Serviço é fornecido gratuitamente apenas para uso pessoal e não comercial. Você não pode reproduzir, distribuir, modificar ou usar comercialmente o conteúdo, design ou funcionalidade do Serviço sem a permissão escrita prévia do operador."
+      },
+      "userConduct": {
+        "heading": "Conduta do Usuário",
+        "content": "Ao usar o Serviço, você não deve se envolver em atividades que violem as leis ou a moral pública, infrinjam os direitos de outros usuários ou terceiros, interfiram na operação do Serviço ou se envolvam em qualquer outro comportamento inadequado."
+      },
+      "disclaimer": {
+        "heading": "Isenção de Responsabilidade",
+        "content": "O Serviço é fornecido 'tal como está'. O operador não faz garantias, expressas ou implícitas, regarding a precisão, completude, utilidade, segurança ou adequação do Serviço para um propósito específico. O operador não é responsável por danos decorrentes do uso do Serviço."
+      },
+      "limitations": {
+        "heading": "Limitação de Responsabilidade",
+        "content": "O operador não será responsável por danos diretos, indiretos, incidentais, especiais, consequentes ou punitivos decorrentes de ou relacionados ao uso do Serviço, mesmo que avisado da possibilidade de tais danos."
+      },
+      "intellectualProperty": {
+        "heading": "Propriedade Intelectual",
+        "content": "Todos os direitos de propriedade intelectual do conteúdo do Serviço (incluindo texto, imagens, logos e design) pertencem ao operador ou aos legítimos detentores de direitos. Os usuários não podem usar este conteúdo sem a permissão do operador."
+      },
+      "modifications": {
+        "heading": "Modificações dos Termos",
+        "content": "O operador pode modificar estes Termos de Serviço conforme necessário. Os termos modificados entram em vigência quando publicados nesta página. O uso contínuo do Serviço após as modificações constitui aceitação dos termos modificados."
+      },
+      "governingLaw": {
+        "heading": "Lei Aplicável e Jurisdição",
+        "content": "Estes termos serão regidos por e interpretados de acordo com as leis do Japão. Qualquer disputa relacionada ao Serviço estará sujeita à jurisdição exclusiva do tribunal competente para a localização do operador."
+      }
+    }
+  },
+  "contact": {
+    "title": "Informações de Contato",
+    "sections": {
+      "operator": {
+        "heading": "Operador",
+        "name": "[Nome do Operador]"
+      },
+      "email": {
+        "heading": "Contato",
+        "address": "contact@example.com"
+      },
+      "purpose": {
+        "heading": "Propósito do Contato",
+        "content": "Se você tiver dúvidas, comentários, sugestões ou desejar relatar problemas regarding o Serviço, entre em contato conosco no endereço de e-mail acima."
+      },
+      "response": {
+        "heading": "Tempo de Resposta",
+        "content": "Responderemos às consultas o mais rápido possível, mas dependendo da natureza da consulta, pode levar algum tempo para responder. Observe que talvez não sejamos capazes de responder a todas as consultas."
+      }
+    }
   }
 }

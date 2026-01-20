@@ -18,5 +18,152 @@
   },
   "languageSwitcher": {
     "label": "Langue"
+  },
+  "footer": {
+    "about": "À propos",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contact",
+    "copyright": "© 2026 Générateur de Sujets. Tous les droits réservés."
+  },
+  "navigation": {
+    "backToHome": "Retour à l'Accueil"
+  },
+  "about": {
+    "title": "À propos du Générateur de Sujets",
+    "sections": {
+      "whatIs": {
+        "heading": "Qu'est-ce que le Générateur de Sujets",
+        "content": "Générateur de Sujets est une application web qui suggère aléatoirement des sujets de conversation. Elle propose des sujets variés provenant de différentes catégories telles que les loisirs, la gastronomie, les voyages, le travail, la technologie, la vie quotidienne, et bien d'autres."
+      },
+      "purpose": {
+        "heading": "Objectif",
+        "content": "Il aide à faciliter les conversations fluides dans diverses situations, y compris les conversations avec de nouvelles connaissances, briser les silences gênants, le renforcement d'équipe et les brise-glace."
+      },
+      "features": {
+        "heading": "Caractéristiques",
+        "items": [
+          "Génération de sujets aléatoires",
+          "Support de 8 langues (Japonais, Anglais, Chinois, Coréen, Espagnol, Allemand, Français, Portugais)",
+          "Interface simple et facile à utiliser",
+          "Compatible avec les smartphones, tablettes et ordinateurs",
+          "Aucune inscription requise",
+          "Complètement gratuit"
+        ]
+      },
+      "howItWorks": {
+        "heading": "Comment l'utiliser",
+        "content": "Cliquez simplement sur le bouton 'Afficher le Sujet' pour afficher un sujet de conversation sélectionné aléatoirement. Si vous n'aimez pas le sujet, vous pouvez cliquer à nouveau sur le bouton pour afficher un autre sujet. Vous pouvez sélectionner votre langue préférée dans le menu de sélection de la langue en haut à droite."
+      },
+      "languages": {
+        "heading": "Langues Prises en Charge",
+        "list": "日本語, English, 简体中文, 한국어, Español, Deutsch, Français, Português"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour: Janvier 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introduction",
+        "content": "Générateur de Sujets (le 'Service') respecte la confidentialité des utilisateurs et s'engage à protéger les informations personnelles. Cette Politique de Confidentialité explique quelles informations le Service collecte et comment elles sont utilisées."
+      },
+      "dataCollection": {
+        "heading": "Informations que nous collectons",
+        "content": "Le Service n'a pas de système de compte utilisateur et ne collecte pas d'informations personnelles identifiables (comme le nom, l'adresse e-mail ou l'adresse physique). Cependant, nous pouvons collecter des statistiques d'utilisation anonymes (telles que les pages vues, les préférences de langue et le type d'appareil) pour améliorer le service et améliorer l'expérience utilisateur."
+      },
+      "cookies": {
+        "heading": "Utilisation des Cookies",
+        "content": "Le Service peut utiliser des cookies et le stockage local pour enregistrer vos préférences de langue et améliorer la fonctionnalité du service. Ces données sont stockées dans votre navigateur et ne vous identifient pas personnellement. Vous pouvez désactiver les cookies dans les paramètres de votre navigateur, mais certaines fonctionnalités peuvent ne pas fonctionner correctement."
+      },
+      "thirdParty": {
+        "heading": "Services Tiers",
+        "content": "Le Service utilise les services tiers suivants à des fins publicitaires et analytiques.",
+        "adsense": {
+          "heading": "Google AdSense",
+          "content": "Ce site utilise Google AdSense pour diffuser des publicités. Google utilise des cookies pour servir des publicités basées sur les intérêts des utilisateurs. Vous pouvez refuser les publicités personnalisées en visitant la page Paramètres des annonces de Google (https://www.google.com/settings/ads). Pour plus d'informations, veuillez consulter la Politique de Confidentialité de Google."
+        }
+      },
+      "dataSecurity": {
+        "heading": "Sécurité des Données",
+        "content": "Le Service met en œuvre des mesures techniques et organisationnelles raisonnables pour assurer la sécurité des données collectées. Cependant, la transmission d'informations sur Internet n'est pas complètement sécurisée, et nous ne pouvons pas garantir une sécurité absolue."
+      },
+      "childrenPrivacy": {
+        "heading": "Confidentialité des Enfants",
+        "content": "Le Service ne collecte pas sciemment d'informations personnelles auprès d'enfants de moins de 13 ans. Si vous êtes un parent ou un tuteur et que vous croyez que votre enfant a fourni des informations personnelles, veuillez contacter l'opérateur."
+      },
+      "changes": {
+        "heading": "Modifications de la Politique de Confidentialité",
+        "content": "Le Service peut mettre à jour cette Politique de Confidentialité au besoin. Les modifications seront affichées sur cette page. Nous vous recommandons de consulter cette page régulièrement."
+      },
+      "contact": {
+        "heading": "Contactez-nous",
+        "content": "Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter en utilisant les informations figurant sur la page Contact."
+      }
+    }
+  },
+  "terms": {
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour: Janvier 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Acceptation des Conditions",
+        "content": "En utilisant le Service, vous acceptez ces Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser le Service."
+      },
+      "serviceDescription": {
+        "heading": "Description du Service",
+        "content": "Générateur de Sujets est une application web gratuite qui suggère aléatoirement des sujets de conversation. Les utilisateurs peuvent obtenir des sujets en cliquant simplement sur un bouton sans inscription de compte."
+      },
+      "useLicense": {
+        "heading": "Licence d'Utilisation",
+        "content": "Le Service est fourni gratuitement pour un usage personnel et non commercial uniquement. Vous ne pouvez pas reproduire, distribuer, modifier ou utiliser commercialement le contenu, la conception ou la fonctionnalité du Service sans la permission écrite préalable de l'opérateur."
+      },
+      "userConduct": {
+        "heading": "Conduite de l'Utilisateur",
+        "content": "Lors de l'utilisation du Service, vous ne devez pas vous engager dans des activités qui violent les lois ou la morale publique, qui portent atteinte aux droits d'autres utilisateurs ou de tiers, qui interfèrent avec le fonctionnement du Service, ou vous engager dans tout autre comportement inapproprié."
+      },
+      "disclaimer": {
+        "heading": "Clause d'Exonération de Responsabilité",
+        "content": "Le Service est fourni \"tel quel\". L'opérateur ne donne aucune garantie, expresse ou implicite, concernant l'exactitude, l'intégrité, l'utilité, la sécurité ou l'adéquation du Service à un objectif particulier. L'opérateur ne sera pas responsable des dommages résultant de l'utilisation du Service."
+      },
+      "limitations": {
+        "heading": "Limitation de Responsabilité",
+        "content": "L'opérateur ne sera pas responsable des dommages directs, indirects, accessoires, spéciaux, consécutifs ou punitifs découlant de ou liés à l'utilisation du Service, même s'il a été averti de la possibilité de tels dommages."
+      },
+      "intellectualProperty": {
+        "heading": "Propriété Intellectuelle",
+        "content": "Tous les droits de propriété intellectuelle du contenu du Service (y compris le texte, les images, les logos et la conception) appartiennent à l'opérateur ou aux titulaires de droits légitimes. Les utilisateurs ne peuvent pas utiliser ce contenu sans la permission de l'opérateur."
+      },
+      "modifications": {
+        "heading": "Modifications des Conditions",
+        "content": "L'opérateur peut modifier ces Conditions d'Utilisation au besoin. Les conditions modifiées entrent en vigueur dès leur publication sur cette page. L'utilisation continue du Service après les modifications constitue l'acceptation des conditions modifiées."
+      },
+      "governingLaw": {
+        "heading": "Droit Applicable et Juridiction",
+        "content": "Ces conditions sont régies par et construites conformément aux lois du Japon. Tout différend concernant le Service sera soumis à la juridiction exclusive du tribunal compétent pour le lieu de l'opérateur."
+      }
+    }
+  },
+  "contact": {
+    "title": "Informations de Contact",
+    "sections": {
+      "operator": {
+        "heading": "Opérateur",
+        "name": "[Nom de l'Opérateur]"
+      },
+      "email": {
+        "heading": "Contact",
+        "address": "contact@example.com"
+      },
+      "purpose": {
+        "heading": "Objectif du Contact",
+        "content": "Si vous avez des questions, des commentaires, des suggestions, ou si vous souhaitez signaler des problèmes concernant le Service, veuillez nous contacter à l'adresse e-mail ci-dessus."
+      },
+      "response": {
+        "heading": "Délai de Réponse",
+        "content": "Nous répondrons aux demandes dès que possible, mais selon la nature de la demande, il peut s'écouler un certain temps avant que nous répondions. Veuillez noter que nous ne pouvons pas répondre à toutes les demandes."
+      }
+    }
   }
 }

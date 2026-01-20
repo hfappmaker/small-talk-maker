@@ -249,6 +249,756 @@
       "id": 50,
       "content": "¿Qué te gusta hacer cuando sales con amigos?",
       "category": "Familia y Amigos"
+    },
+    {
+      "id": 51,
+      "content": "¿Tienes mascotas? ¿Qué tipo?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 52,
+      "content": "¿Cuál es tu animal favorito y por qué?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 53,
+      "content": "¿Te gusta visitar zoológicos o acuarios?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 54,
+      "content": "¿Eres más de perros, gatos u otros animales?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 55,
+      "content": "¿Qué es lo mejor de vivir con mascotas?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 56,
+      "content": "¿Alguna recomendación de lugares para interactuar con animales?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 57,
+      "content": "¿Has visto animales salvajes? ¿Dónde?",
+      "category": "Mascotas y Animales"
+    },
+    {
+      "id": 58,
+      "content": "¿A qué prestas atención en la moda?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 59,
+      "content": "¿Tienes marcas o tiendas favoritas?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 60,
+      "content": "¿Qué es importante para ti sobre belleza y arreglo personal?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 61,
+      "content": "¿Qué artículo de moda compraste recientemente que te gustó?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 62,
+      "content": "¿Qué haces para el cuidado de la piel o el cabello?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 63,
+      "content": "¿Qué es lo principal en lo que te enfocas al vestirte?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 64,
+      "content": "¿Sigues las tendencias de moda?",
+      "category": "Moda y Belleza"
+    },
+    {
+      "id": 65,
+      "content": "¿Qué problemas ambientales te preocupan?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 66,
+      "content": "¿Qué prácticas ecológicas sigues?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 67,
+      "content": "¿Disfrutas pasar tiempo en la naturaleza?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 68,
+      "content": "¿Cuál es tu estación favorita y paisaje natural?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 69,
+      "content": "¿Has hecho senderismo o montañismo?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 70,
+      "content": "¿Qué haces para reciclar o reducir residuos?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 71,
+      "content": "¿Has participado en actividades ambientales?",
+      "category": "Medio Ambiente y Naturaleza"
+    },
+    {
+      "id": 72,
+      "content": "¿En qué te enfocas para la gestión del dinero?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 73,
+      "content": "¿Ahorras o inviertes dinero?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 74,
+      "content": "¿Cuáles son tus criterios para gastar versus ahorrar?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 75,
+      "content": "¿Qué compra reciente te hizo sentir bien?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 76,
+      "content": "¿Usas métodos de pago sin efectivo?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 77,
+      "content": "¿Qué noticias económicas te interesan?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 78,
+      "content": "¿Qué estás aprendiendo sobre dinero y finanzas?",
+      "category": "Dinero y Finanzas"
+    },
+    {
+      "id": 79,
+      "content": "¿Cuál es tu arte u obra de arte favorita?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 80,
+      "content": "¿Te gusta visitar museos o galerías de arte?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 81,
+      "content": "¿Te interesa la cultura tradicional o las artesanías?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 82,
+      "content": "¿Has visto teatro o musicales?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 83,
+      "content": "¿Disfrutas de la fotografía o el dibujo?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 84,
+      "content": "¿A qué eventos culturales te gustaría asistir?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 85,
+      "content": "¿De qué aspectos de tu cultura te sientes orgulloso?",
+      "category": "Cultura y Artes"
+    },
+    {
+      "id": 86,
+      "content": "¿Qué juegos has estado jugando recientemente?",
+      "category": "Juegos"
+    },
+    {
+      "id": 87,
+      "content": "¿Cuál es tu género de juego favorito?",
+      "category": "Juegos"
+    },
+    {
+      "id": 88,
+      "content": "¿Prefieres juegos en línea o fuera de línea?",
+      "category": "Juegos"
+    },
+    {
+      "id": 89,
+      "content": "¿Juegas juegos móviles?",
+      "category": "Juegos"
+    },
+    {
+      "id": 90,
+      "content": "¿Te gustan los juegos de mesa o de cartas?",
+      "category": "Juegos"
+    },
+    {
+      "id": 91,
+      "content": "¿Cuál es el juego más memorable que has jugado?",
+      "category": "Juegos"
+    },
+    {
+      "id": 92,
+      "content": "¿Miras o juegas esports?",
+      "category": "Juegos"
+    },
+    {
+      "id": 93,
+      "content": "¿Qué valores son importantes para ti en la vida?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 94,
+      "content": "¿Cuándo te sientes más feliz?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 95,
+      "content": "¿Cuáles son tus sueños o metas para el futuro?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 96,
+      "content": "¿Quién o qué te ha influenciado más en la vida?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 97,
+      "content": "¿Qué lamentas y qué has aprendido?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 98,
+      "content": "¿Qué quieres intentar pero aún no has hecho?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 99,
+      "content": "¿Cuáles crees que son tus fortalezas y debilidades?",
+      "category": "Filosofía de Vida y Valores"
+    },
+    {
+      "id": 100,
+      "content": "¿Cuál es tu estación favorita y por qué?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 101,
+      "content": "¿Cómo te gusta pasar cada estación?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 102,
+      "content": "¿Cómo sueles pasar el Año Nuevo?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 103,
+      "content": "¿Cómo celebras la Navidad?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 104,
+      "content": "¿Haces algo especial para tu cumpleaños?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 105,
+      "content": "¿Disfrutas de la floración de cerezos o el follaje otoñal?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 106,
+      "content": "¿Cuál es tu evento o celebración anual favorita?",
+      "category": "Temporadas y Eventos"
+    },
+    {
+      "id": 107,
+      "content": "¿Te gusta leer? ¿Qué géneros?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 108,
+      "content": "¿Ves manga o anime? ¿Alguna recomendación?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 109,
+      "content": "¿Puedes tocar algún instrumento? ¿Cuáles te gustaría aprender?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 110,
+      "content": "¿Te interesa el bricolaje o las manualidades?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 111,
+      "content": "¿Disfrutas de la fotografía?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 112,
+      "content": "¿Haces jardinería?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 113,
+      "content": "¿Coleccionas algo?",
+      "category": "Pasatiempos"
+    },
+    {
+      "id": 114,
+      "content": "¿Qué platos se te dan bien o disfrutas cocinar?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 115,
+      "content": "¿Bebes alcohol? ¿Cuál es tu tipo favorito?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 116,
+      "content": "¿Disfrutas de ir de cafetería en cafetería? ¿Alguna recomendación?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 117,
+      "content": "¿Qué comida local o callejera te gusta?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 118,
+      "content": "¿Prefieres buffets o comidas de curso?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 119,
+      "content": "¿Qué ingredientes o condimentos te gustan últimamente?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 120,
+      "content": "¿Qué cocinas internacionales disfrutas?",
+      "category": "Gastronomía"
+    },
+    {
+      "id": 121,
+      "content": "¿Qué países has disfrutado visitar?",
+      "category": "Viajes"
+    },
+    {
+      "id": 122,
+      "content": "¿Planificas los viajes cuidadosamente o vas espontáneamente?",
+      "category": "Viajes"
+    },
+    {
+      "id": 123,
+      "content": "¿Qué recuerdos compras siempre cuando viajas?",
+      "category": "Viajes"
+    },
+    {
+      "id": 124,
+      "content": "¿Te interesa el mochilerismo?",
+      "category": "Viajes"
+    },
+    {
+      "id": 125,
+      "content": "¿Prefieres resorts de playa o turismo urbano?",
+      "category": "Viajes"
+    },
+    {
+      "id": 126,
+      "content": "¿Qué lugares turísticos nacionales recomendarías?",
+      "category": "Viajes"
+    },
+    {
+      "id": 127,
+      "content": "¿Prefieres experiencias culturales o visitar monumentos famosos?",
+      "category": "Viajes"
+    },
+    {
+      "id": 128,
+      "content": "¿Has considerado cambiar de trabajo o departamento?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 129,
+      "content": "¿Cuál es tu forma ideal de trabajar?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 130,
+      "content": "¿Cuándo te sientes más realizado en el trabajo?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 131,
+      "content": "¿Qué es importante para ti en las relaciones laborales?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 132,
+      "content": "¿Qué estás estudiando para mejorar tus habilidades?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 133,
+      "content": "¿Qué has aprendido de los fracasos laborales?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 134,
+      "content": "¿Te interesan los trabajos secundarios o carreras múltiples?",
+      "category": "Trabajo"
+    },
+    {
+      "id": 135,
+      "content": "¿Qué tendencias tecnológicas te interesan?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 136,
+      "content": "¿Usas dispositivos de hogar inteligente?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 137,
+      "content": "¿Has probado experiencias de VR o AR?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 138,
+      "content": "¿Te interesa la programación o la codificación?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 139,
+      "content": "¿Cómo ha hecho la tecnología tu vida más conveniente?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 140,
+      "content": "¿Te interesan los coches eléctricos o la conducción autónoma?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 141,
+      "content": "¿Qué servicios de suscripción usas?",
+      "category": "Tecnología"
+    },
+    {
+      "id": 142,
+      "content": "¿Cuál es tu rutina matutina?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 143,
+      "content": "¿Cómo pasas tu tiempo de relajación nocturno?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 144,
+      "content": "¿Te gusta limpiar? ¿Algún consejo?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 145,
+      "content": "¿Qué haces durante tu viaje diario?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 146,
+      "content": "¿Cómo disfrutas los días lluviosos?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 147,
+      "content": "¿Cuáles son las pequeñas alegrías de tu vida cotidiana?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 148,
+      "content": "¿Qué hábitos has desarrollado en tu vida?",
+      "category": "Vida Cotidiana"
+    },
+    {
+      "id": 149,
+      "content": "¿Corres o trotas?",
+      "category": "Deportes"
+    },
+    {
+      "id": 150,
+      "content": "¿Vas a un gimnasio o centro de fitness?",
+      "category": "Deportes"
+    },
+    {
+      "id": 151,
+      "content": "¿Te interesa el yoga o pilates?",
+      "category": "Deportes"
+    },
+    {
+      "id": 152,
+      "content": "¿Quién es tu atleta favorito?",
+      "category": "Deportes"
+    },
+    {
+      "id": 153,
+      "content": "¿Te gusta ver deportes? ¿En persona o por TV?",
+      "category": "Deportes"
+    },
+    {
+      "id": 154,
+      "content": "¿Has probado maratones o triatlones?",
+      "category": "Deportes"
+    },
+    {
+      "id": 155,
+      "content": "¿Te gustan los deportes de invierno como esquí o snowboard?",
+      "category": "Deportes"
+    },
+    {
+      "id": 156,
+      "content": "¿Qué has visto recientemente en Netflix o Amazon Prime?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 157,
+      "content": "¿Quién es tu director o actor favorito?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 158,
+      "content": "¿Escuchas podcasts o radio?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 159,
+      "content": "¿Qué canales de YouTube disfrutas?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 160,
+      "content": "¿Prefieres ver películas en cines o en casa?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 161,
+      "content": "¿Te gusta la comedia?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 162,
+      "content": "¿Ves documentales?",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": 163,
+      "content": "¿Cómo están tus resultados de chequeo de salud?",
+      "category": "Salud"
+    },
+    {
+      "id": 164,
+      "content": "¿Tomas suplementos o alimentos saludables?",
+      "category": "Salud"
+    },
+    {
+      "id": 165,
+      "content": "¿Tienes una rutina de estiramientos o ejercicio?",
+      "category": "Salud"
+    },
+    {
+      "id": 166,
+      "content": "¿Te haces masajes o tratamientos quiroprácticos?",
+      "category": "Salud"
+    },
+    {
+      "id": 167,
+      "content": "¿Qué es importante para ti en el cuidado de la salud mental?",
+      "category": "Salud"
+    },
+    {
+      "id": 168,
+      "content": "¿Prestas atención a las comidas equilibradas?",
+      "category": "Salud"
+    },
+    {
+      "id": 169,
+      "content": "¿Qué hábitos de ejercicio tienes para la salud?",
+      "category": "Salud"
+    },
+    {
+      "id": 170,
+      "content": "¿Usas aprendizaje en línea o e-learning?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 171,
+      "content": "¿Estás aprendiendo algún idioma?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 172,
+      "content": "¿Has participado en clubes de lectura o grupos de estudio?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 173,
+      "content": "¿Qué métodos de aprendizaje o técnicas de memoria efectivas usas?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 174,
+      "content": "¿Qué te gustaría estudiar en la universidad o colegio?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 175,
+      "content": "¿Qué temas despiertan tu curiosidad intelectual?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 176,
+      "content": "¿Lees libros de autoayuda o de negocios?",
+      "category": "Aprendizaje"
+    },
+    {
+      "id": 177,
+      "content": "¿Qué es importante para ti sobre el tiempo en familia?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 178,
+      "content": "¿Qué lecciones importantes te enseñaron tus padres o abuelos?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 179,
+      "content": "¿Con qué frecuencia ves a tus amigos?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 180,
+      "content": "¿Todavía mantienes contacto con amigos de la escuela?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 181,
+      "content": "¿Eres bueno haciendo amigos? ¿Cómo te haces amigo?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 182,
+      "content": "¿Tienes amigos cercanos que consideras mejores amigos?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 183,
+      "content": "¿Cuáles son tus recuerdos de viajes familiares o con amigos?",
+      "category": "Familia y Amigos"
+    },
+    {
+      "id": 184,
+      "content": "¿Tienes coche? ¿Disfrutas conducir?",
+      "category": "Otro"
+    },
+    {
+      "id": 185,
+      "content": "¿Qué haces en trenes o autobuses?",
+      "category": "Otro"
+    },
+    {
+      "id": 186,
+      "content": "¿Crees en la adivinación o el feng shui?",
+      "category": "Otro"
+    },
+    {
+      "id": 187,
+      "content": "¿Has hecho algún trabajo voluntario?",
+      "category": "Otro"
+    },
+    {
+      "id": 188,
+      "content": "¿Participas en actividades comunitarias?",
+      "category": "Otro"
+    },
+    {
+      "id": 189,
+      "content": "¿Cuántas veces te has mudado?",
+      "category": "Otro"
+    },
+    {
+      "id": 190,
+      "content": "¿Cuál es tu situación de vida ideal?",
+      "category": "Otro"
+    },
+    {
+      "id": 191,
+      "content": "¿Qué estás haciendo ahora para lograr tus sueños y metas?",
+      "category": "Otro"
+    },
+    {
+      "id": 192,
+      "content": "¿Qué harías si tuvieras más tiempo?",
+      "category": "Otro"
+    },
+    {
+      "id": 193,
+      "content": "¿Cuál es tu lema o cita favorita?",
+      "category": "Otro"
+    },
+    {
+      "id": 194,
+      "content": "¿Qué te ha conmovido recientemente?",
+      "category": "Otro"
+    },
+    {
+      "id": 195,
+      "content": "¿Cómo te recompensas a ti mismo?",
+      "category": "Otro"
+    },
+    {
+      "id": 196,
+      "content": "¿Dónde quieres estar en 10 años?",
+      "category": "Otro"
+    },
+    {
+      "id": 197,
+      "content": "¿Qué harías si ganaras la lotería?",
+      "category": "Otro"
+    },
+    {
+      "id": 198,
+      "content": "Si solo pudieras llevar una cosa a una isla desierta, ¿qué sería?",
+      "category": "Otro"
+    },
+    {
+      "id": 199,
+      "content": "¿Hay algo que sientas que no has hecho en la vida?",
+      "category": "Otro"
+    },
+    {
+      "id": 200,
+      "content": "¿Qué es lo que más quieres ahora?",
+      "category": "Otro"
     }
   ]
 }

@@ -18,5 +18,152 @@
   },
   "languageSwitcher": {
     "label": "Idioma"
+  },
+  "footer": {
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contacto",
+    "copyright": "© 2026 Generador de Temas. Todos los derechos reservados."
+  },
+  "navigation": {
+    "backToHome": "Volver al inicio"
+  },
+  "about": {
+    "title": "Acerca del Generador de Temas",
+    "sections": {
+      "whatIs": {
+        "heading": "¿Qué es el Generador de Temas?",
+        "content": "El Generador de Temas es una aplicación web que sugiere aleatoriamente temas de conversación. Proporciona temas diversos de varias categorías como pasatiempos, gastronomía, viajes, trabajo, tecnología, vida diaria y más."
+      },
+      "purpose": {
+        "heading": "Propósito",
+        "content": "Ayuda a facilitar conversaciones fluidas en diversas situaciones, incluyendo conversaciones con nuevos conocidos, romper silencios incómodos, formación de equipos y rompehielos."
+      },
+      "features": {
+        "heading": "Características",
+        "items": [
+          "Generación aleatoria de temas",
+          "Soporte para 8 idiomas (japonés, inglés, chino, coreano, español, alemán, francés, portugués)",
+          "Interfaz simple y fácil de usar",
+          "Compatible con teléfonos, tabletas y PC",
+          "No requiere registro de cuenta",
+          "Completamente gratuito"
+        ]
+      },
+      "howItWorks": {
+        "heading": "Cómo usar",
+        "content": "Simplemente haga clic en el botón 'Mostrar Tema' para mostrar un tema de conversación seleccionado al azar. Si no le gusta el tema, puede hacer clic en el botón nuevamente para mostrar uno diferente. Puede seleccionar su idioma preferido desde el menú de cambio de idioma en la esquina superior derecha."
+      },
+      "languages": {
+        "heading": "Idiomas compatibles",
+        "list": "日本語, English, 简体中文, 한국어, Español, Deutsch, Français, Português"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: enero de 2026",
+    "sections": {
+      "intro": {
+        "heading": "Introducción",
+        "content": "Generador de Temas (el 'Servicio') respeta la privacidad del usuario y se compromete a proteger la información personal. Esta Política de Privacidad explica qué información recopila el Servicio y cómo se utiliza."
+      },
+      "dataCollection": {
+        "heading": "Información que recopilamos",
+        "content": "El Servicio no tiene un sistema de cuentas de usuario y no recopila información de identificación personal (como nombre, dirección de correo electrónico o dirección física). Sin embargo, podemos recopilar estadísticas de uso anónimas (como vistas de página, preferencias de idioma y tipo de dispositivo) para mejorar el servicio y mejorar la experiencia del usuario."
+      },
+      "cookies": {
+        "heading": "Uso de cookies",
+        "content": "El Servicio puede usar cookies y almacenamiento local para guardar sus preferencias de idioma y mejorar la funcionalidad del servicio. Estos datos se almacenan en su navegador y no lo identifican personalmente. Puede desactivar las cookies en la configuración de su navegador, pero algunas funciones pueden no funcionar correctamente."
+      },
+      "thirdParty": {
+        "heading": "Servicios de terceros",
+        "content": "El Servicio utiliza los siguientes servicios de terceros con fines publicitarios y analíticos.",
+        "adsense": {
+          "heading": "Google AdSense",
+          "content": "Este sitio utiliza Google AdSense para publicar anuncios. Google usa cookies para publicar anuncios basados en los intereses de los usuarios. Puede optar por no recibir publicidad personalizada visitando la página de Configuración de anuncios de Google (https://www.google.com/settings/ads). Para obtener más información, consulte la Política de privacidad de Google."
+        }
+      },
+      "dataSecurity": {
+        "heading": "Seguridad de los datos",
+        "content": "El Servicio implementa medidas técnicas y organizativas razonables para garantizar la seguridad de los datos recopilados. Sin embargo, la transmisión de información a través de Internet no es completamente segura y no podemos garantizar una seguridad absoluta."
+      },
+      "childrenPrivacy": {
+        "heading": "Privacidad de los niños",
+        "content": "El Servicio no recopila intencionalmente información personal de niños menores de 13 años. Si usted es padre o tutor y cree que su hijo ha proporcionado información personal, comuníquese con el operador."
+      },
+      "changes": {
+        "heading": "Cambios a la Política de Privacidad",
+        "content": "El Servicio puede actualizar esta Política de Privacidad según sea necesario. Los cambios se publicarán en esta página. Recomendamos verificar esta página periódicamente."
+      },
+      "contact": {
+        "heading": "Contáctenos",
+        "content": "Si tiene alguna pregunta o inquietud sobre esta Política de Privacidad, contáctenos utilizando la información en la página de Contacto."
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: enero de 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Aceptación de los términos",
+        "content": "Al usar el Servicio, usted acepta estos Términos de Servicio. Si no está de acuerdo con estos términos, no utilice el Servicio."
+      },
+      "serviceDescription": {
+        "heading": "Descripción del servicio",
+        "content": "Generador de Temas es una aplicación web gratuita que sugiere aleatoriamente temas de conversación. Los usuarios pueden obtener temas simplemente haciendo clic en un botón sin necesidad de registrarse."
+      },
+      "useLicense": {
+        "heading": "Licencia de uso",
+        "content": "El Servicio se proporciona de forma gratuita solo para uso personal y no comercial. No puede reproducir, distribuir, modificar o utilizar comercialmente el contenido, diseño o funcionalidad del Servicio sin el permiso previo por escrito del operador."
+      },
+      "userConduct": {
+        "heading": "Conducta del usuario",
+        "content": "Al usar el Servicio, no debe participar en actividades que violen las leyes o la moral pública, infrinjan los derechos de otros usuarios o terceros, interfieran con la operación del Servicio, ni participar en ningún otro comportamiento inapropiado."
+      },
+      "disclaimer": {
+        "heading": "Descargo de responsabilidad",
+        "content": "El Servicio se proporciona 'tal cual'. El operador no ofrece garantías, expresas o implícitas, con respecto a la precisión, integridad, utilidad, seguridad o idoneidad para un propósito particular del Servicio. El operador no es responsable de ningún daño que surja del uso del Servicio."
+      },
+      "limitations": {
+        "heading": "Limitación de responsabilidad",
+        "content": "El operador no será responsable de ningún daño directo, indirecto, incidental, especial, consecuente o punitivo que surja de o esté relacionado con el uso del Servicio, incluso si se le informa de la posibilidad de tales daños."
+      },
+      "intellectualProperty": {
+        "heading": "Propiedad intelectual",
+        "content": "Todos los derechos de propiedad intelectual sobre el contenido del Servicio (incluido texto, imágenes, logotipos y diseño) pertenecen al operador o a los titulares legítimos de los derechos. Los usuarios no pueden usar este contenido sin el permiso del operador."
+      },
+      "modifications": {
+        "heading": "Modificaciones a los términos",
+        "content": "El operador puede modificar estos Términos de Servicio según sea necesario. Los términos modificados entran en vigor cuando se publican en esta página. El uso continuo del Servicio después de las modificaciones constituye la aceptación de los términos modificados."
+      },
+      "governingLaw": {
+        "heading": "Ley aplicable y jurisdicción",
+        "content": "Estos términos se regirán e interpretarán de acuerdo con las leyes de Japón. Cualquier disputa relacionada con el Servicio estará sujeta a la jurisdicción exclusiva del tribunal con jurisdicción sobre la ubicación del operador."
+      }
+    }
+  },
+  "contact": {
+    "title": "Información de contacto",
+    "sections": {
+      "operator": {
+        "heading": "Operador",
+        "name": "[Nombre del operador]"
+      },
+      "email": {
+        "heading": "Contacto",
+        "address": "contact@example.com"
+      },
+      "purpose": {
+        "heading": "Propósito del contacto",
+        "content": "Si tiene alguna pregunta, comentario, sugerencia o desea informar problemas relacionados con el Servicio, no dude en contactarnos en la dirección de correo electrónico anterior."
+      },
+      "response": {
+        "heading": "Tiempo de respuesta",
+        "content": "Responderemos a las consultas lo más rápido posible, pero dependiendo de la naturaleza de la consulta, puede tomar algún tiempo responder. Tenga en cuenta que es posible que no podamos responder a todas las consultas."
+      }
+    }
   }
 }

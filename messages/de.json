@@ -18,5 +18,152 @@
   },
   "languageSwitcher": {
     "label": "Sprache"
+  },
+  "footer": {
+    "about": "Über uns",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontakt",
+    "copyright": "© 2026 Gesprächsthemen Generator. Alle Rechte vorbehalten."
+  },
+  "navigation": {
+    "backToHome": "Zurück zur Startseite"
+  },
+  "about": {
+    "title": "Über Gesprächsthemen Generator",
+    "sections": {
+      "whatIs": {
+        "heading": "Was ist Gesprächsthemen Generator",
+        "content": "Gesprächsthemen Generator ist eine Webanwendung, die zufällig Gesprächsthemen vorschlägt. Sie bietet vielfältige Themen aus verschiedenen Kategorien wie Hobbys, Kulinarik, Reisen, Arbeit, Technologie, Alltag und vieles mehr."
+      },
+      "purpose": {
+        "heading": "Zweck",
+        "content": "Sie hilft, reibungslose Gespräche in verschiedenen Situationen zu erleichtern, einschließlich Gespräche mit neuen Bekannten, das Durchbrechen von unbehaglichen Pausen, Teambuilding und Eisbrecher."
+      },
+      "features": {
+        "heading": "Funktionen",
+        "items": [
+          "Zufällige Themengenerierung",
+          "Unterstützung für 8 Sprachen (Japanisch, Englisch, Chinesisch, Koreanisch, Spanisch, Deutsch, Französisch, Portugiesisch)",
+          "Einfache und benutzerfreundliche Oberfläche",
+          "Kompatibel mit Smartphones, Tablets und PCs",
+          "Keine Kontoregistrierung erforderlich",
+          "Völlig kostenlos"
+        ]
+      },
+      "howItWorks": {
+        "heading": "Wie man es benutzt",
+        "content": "Klicken Sie einfach auf die Schaltfläche 'Thema Anzeigen', um ein zufällig ausgewähltes Gesprächsthema anzuzeigen. Wenn Ihnen das Thema nicht gefällt, können Sie die Schaltfläche erneut anklicken, um ein anderes anzuzeigen. Sie können Ihre bevorzugte Sprache im Sprachauswahlmenü in der oberen rechten Ecke auswählen."
+      },
+      "languages": {
+        "heading": "Unterstützte Sprachen",
+        "list": "日本語, English, 简体中文, 한국어, Español, Deutsch, Français, Português"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert: Januar 2026",
+    "sections": {
+      "intro": {
+        "heading": "Einführung",
+        "content": "Gesprächsthemen Generator (der 'Dienst') respektiert die Privatsphäre der Benutzer und ist bestrebt, persönliche Informationen zu schützen. Diese Datenschutzrichtlinie erklärt, welche Informationen der Dienst erfasst und wie sie verwendet werden."
+      },
+      "dataCollection": {
+        "heading": "Informationen, die wir erfassen",
+        "content": "Der Dienst verfügt nicht über ein Benutzerkontosystem und erfasst keine persönlich identifizierbaren Informationen (wie Name, E-Mail-Adresse oder physische Adresse). Wir können jedoch anonyme Nutzungsstatistiken (wie Seitenaufrufe, Spracheinstellungen und Gerätetyp) erfassen, um den Dienst zu verbessern und das Benutzererlebnis zu verbessern."
+      },
+      "cookies": {
+        "heading": "Verwendung von Cookies",
+        "content": "Der Dienst kann Cookies und lokalen Speicher verwenden, um Ihre Spracheinstellungen zu speichern und die Dienst-Funktionalität zu verbessern. Diese Daten werden in Ihrem Browser gespeichert und identifizieren Sie nicht persönlich. Sie können Cookies in Ihren Browser-Einstellungen deaktivieren, aber einige Funktionen funktionieren möglicherweise nicht ordnungsgemäß."
+      },
+      "thirdParty": {
+        "heading": "Dienste von Drittanbietern",
+        "content": "Der Dienst nutzt die folgenden Dienste von Drittanbietern zu Werbe- und Analysezwecken.",
+        "adsense": {
+          "heading": "Google AdSense",
+          "content": "Diese Website verwendet Google AdSense, um Anzeigen bereitzustellen. Google verwendet Cookies, um Anzeigen basierend auf den Interessen der Benutzer bereitzustellen. Sie können personalisierte Werbung deaktivieren, indem Sie die Google-Anzeigeneinstellungen aufsuchen (https://www.google.com/settings/ads). Weitere Informationen finden Sie in Googles Datenschutzrichtlinie."
+        }
+      },
+      "dataSecurity": {
+        "heading": "Datensicherheit",
+        "content": "Der Dienst implementiert angemessene technische und organisatorische Maßnahmen, um die Sicherheit der erfassten Daten zu gewährleisten. Die Übertragung von Informationen über das Internet ist jedoch nicht völlig sicher, und wir können absolute Sicherheit nicht garantieren."
+      },
+      "childrenPrivacy": {
+        "heading": "Datenschutz von Kindern",
+        "content": "Der Dienst erfasst bewusst keine persönlichen Informationen von Kindern unter 13 Jahren. Wenn Sie ein Elternteil oder Vormund sind und glauben, dass Ihr Kind persönliche Informationen bereitgestellt hat, wenden Sie sich bitte an den Anbieter."
+      },
+      "changes": {
+        "heading": "Änderungen der Datenschutzrichtlinie",
+        "content": "Der Dienst kann diese Datenschutzrichtlinie bei Bedarf aktualisieren. Änderungen werden auf dieser Seite veröffentlicht. Wir empfehlen, diese Seite regelmäßig zu überprüfen."
+      },
+      "contact": {
+        "heading": "Kontaktieren Sie uns",
+        "content": "Wenn Sie Fragen oder Bedenken zu dieser Datenschutzrichtlinie haben, wenden Sie sich bitte an uns unter Verwendung der Informationen auf der Kontaktseite."
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Januar 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Akzeptanz der Bedingungen",
+        "content": "Durch die Nutzung des Dienstes stimmen Sie diesen Nutzungsbedingungen zu. Wenn Sie diesen Bedingungen nicht zustimmen, verwenden Sie bitte nicht den Dienst."
+      },
+      "serviceDescription": {
+        "heading": "Dienstbeschreibung",
+        "content": "Gesprächsthemen Generator ist eine kostenlose Webanwendung, die zufällig Gesprächsthemen vorschlägt. Benutzer können Themen erhalten, indem sie einfach auf eine Schaltfläche klicken, ohne sich registrieren zu müssen."
+      },
+      "useLicense": {
+        "heading": "Nutzungslizenz",
+        "content": "Der Dienst wird kostenlos nur für persönliche und private Nutzung bereitgestellt. Sie dürfen den Inhalt, das Design oder die Funktionalität des Dienstes ohne vorherige schriftliche Genehmigung des Anbieters nicht vervielfältigen, verbreiten, ändern oder kommerziell nutzen."
+      },
+      "userConduct": {
+        "heading": "Benutzerverhalten",
+        "content": "Bei der Nutzung des Dienstes dürfen Sie sich nicht an Aktivitäten engagieren, die gegen Gesetze oder öffentliche Moral verstoßen, die Rechte anderer Benutzer oder Dritter verletzen, die Bedienung des Dienstes stören oder sich auf andere unangemessene Weise verhalten."
+      },
+      "disclaimer": {
+        "heading": "Haftungsausschluss",
+        "content": "Der Dienst wird 'wie besehen' bereitgestellt. Der Anbieter gibt keine ausdrücklichen oder stillschweigenden Garantien hinsichtlich der Genauigkeit, Vollständigkeit, Nützlichkeit, Sicherheit oder Eignung des Dienstes für einen bestimmten Zweck. Der Anbieter haftet nicht für Schäden, die sich aus der Nutzung des Dienstes ergeben."
+      },
+      "limitations": {
+        "heading": "Haftungsbeschränkung",
+        "content": "Der Anbieter haftet nicht für direkte, indirekte, zufällige, spezielle, Folge- oder Strafschadensersätze, die sich aus der Nutzung des Dienstes ergeben oder damit zusammenhängen, auch wenn auf die Möglichkeit solcher Schäden hingewiesen wurde."
+      },
+      "intellectualProperty": {
+        "heading": "Geistiges Eigentum",
+        "content": "Alle Urheberrechte des Inhalts des Dienstes (einschließlich Text, Bilder, Logos und Design) gehören dem Anbieter oder berechtigten Rechteinhabern. Benutzer dürfen diese Inhalte ohne Genehmigung des Anbieters nicht verwenden."
+      },
+      "modifications": {
+        "heading": "Änderungen der Bedingungen",
+        "content": "Der Anbieter kann diese Nutzungsbedingungen bei Bedarf ändern. Geänderte Bedingungen treten in Kraft, wenn sie auf dieser Seite veröffentlicht werden. Die fortgesetzte Nutzung des Dienstes nach Änderungen gilt als Akzeptanz der geänderten Bedingungen."
+      },
+      "governingLaw": {
+        "heading": "Anwendbares Recht und Gerichtsbarkeit",
+        "content": "Diese Bedingungen unterliegen und werden nach den Gesetzen von Japan ausgelegt. Alle Streitigkeiten bezüglich des Dienstes unterliegen der ausschließlichen Gerichtsbarkeit des Gerichts, das für den Ort des Anbieters zuständig ist."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktinformationen",
+    "sections": {
+      "operator": {
+        "heading": "Anbieter",
+        "name": "[Anbieter Name]"
+      },
+      "email": {
+        "heading": "Kontakt",
+        "address": "contact@example.com"
+      },
+      "purpose": {
+        "heading": "Kontaktzweck",
+        "content": "Wenn Sie Fragen, Kommentare, Vorschläge haben oder Probleme zum Dienst melden möchten, wenden Sie sich gerne an uns unter der oben angegebenen E-Mail-Adresse."
+      },
+      "response": {
+        "heading": "Antwortzeit",
+        "content": "Wir werden Anfragen so schnell wie möglich beantworten, aber je nach Art der Anfrage kann es einige Zeit dauern, bis wir antworten. Bitte beachten Sie, dass wir möglicherweise nicht auf alle Anfragen antworten können."
+      }
+    }
   }
 }

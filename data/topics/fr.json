@@ -249,6 +249,756 @@
       "id": 50,
       "content": "Qu'aimes-tu faire quand tu sors avec des amis ?",
       "category": "Famille et Amis"
+    },
+    {
+      "id": 51,
+      "content": "As-tu un animal de compagnie ? Lequel ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 52,
+      "content": "Quel animal trouves-tu le plus mignon ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 53,
+      "content": "Préfères-tu les chiens ou les chats ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 54,
+      "content": "Es-tu déjà allé dans un zoo ou un aquarium ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 55,
+      "content": "Quel animal aimerais-tu avoir comme animal de compagnie ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 56,
+      "content": "As-tu une histoire drôle avec un animal ?",
+      "category": "Animaux de Compagnie"
+    },
+    {
+      "id": 57,
+      "content": "Quel style de mode aimes-tu ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 58,
+      "content": "As-tu une marque ou un magasin préféré ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 59,
+      "content": "Préfères-tu les vêtements confortables ou stylés ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 60,
+      "content": "Quel est ton secret pour les soins de la peau ou le maquillage ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 61,
+      "content": "À quelle fréquence vas-tu chez le coiffeur ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 62,
+      "content": "Quel est ton parfum ou ton odeur préférée ?",
+      "category": "Mode et Beauté"
+    },
+    {
+      "id": 63,
+      "content": "T'inquiètes-tu des problèmes environnementaux ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 64,
+      "content": "Que fais-tu pour l'environnement ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 65,
+      "content": "Aimes-tu aller dans la nature ou faire des activités en plein air ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 66,
+      "content": "Quelle est ta saison préférée ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 67,
+      "content": "Quel est ton endroit préféré dans la nature ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 68,
+      "content": "As-tu déjà fait du jardinage ou pris soin de plantes ?",
+      "category": "Environnement et Nature"
+    },
+    {
+      "id": 69,
+      "content": "Comment gères-tu ton argent ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 70,
+      "content": "Investis-tu ou épargnes-tu ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 71,
+      "content": "Que ferais-tu si tu gagnais à la loterie ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 72,
+      "content": "Quelle est la plus grosse dépense que tu aies jamais faite ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 73,
+      "content": "Es-tu plutôt économe ou dépensier ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 74,
+      "content": "As-tu un travail secondaire ou une activité parallèle ?",
+      "category": "Argent et Finances"
+    },
+    {
+      "id": 75,
+      "content": "Quel type d'art aimes-tu ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 76,
+      "content": "Es-tu déjà allé dans un musée ou une galerie ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 77,
+      "content": "Joues-tu d'un instrument de musique ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 78,
+      "content": "Quel est ton artiste ou œuvre préféré ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 79,
+      "content": "T'intéresses-tu à la culture traditionnelle ou à l'histoire ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 80,
+      "content": "As-tu déjà fait quelque chose de créatif (peinture, écriture, etc.) ?",
+      "category": "Culture et Arts"
+    },
+    {
+      "id": 81,
+      "content": "À quel jeu joues-tu en ce moment ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 82,
+      "content": "Quel est ton genre de jeu préféré ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 83,
+      "content": "Préfères-tu jouer sur console, PC ou mobile ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 84,
+      "content": "Quel est le meilleur jeu auquel tu aies jamais joué ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 85,
+      "content": "Joues-tu en ligne avec des amis ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 86,
+      "content": "Es-tu plutôt un joueur casual ou hardcore ?",
+      "category": "Jeux Vidéo"
+    },
+    {
+      "id": 87,
+      "content": "Qu'est-ce qui est le plus important pour toi dans la vie ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 88,
+      "content": "Quel est ton objectif ou ton rêve dans la vie ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 89,
+      "content": "As-tu un mentor ou un modèle dans la vie ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 90,
+      "content": "Que fais-tu quand tu dois prendre une décision difficile ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 91,
+      "content": "Quelle est une leçon importante que tu as apprise ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 92,
+      "content": "Quel conseil donnerais-tu à ton moi plus jeune ?",
+      "category": "Philosophie de Vie"
+    },
+    {
+      "id": 93,
+      "content": "Qu'aimes-tu faire au printemps ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 94,
+      "content": "Comment passes-tu l'été ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 95,
+      "content": "Qu'aimes-tu de l'automne ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 96,
+      "content": "Comment passes-tu l'hiver ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 97,
+      "content": "Quelle est ta saison préférée de l'année ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 98,
+      "content": "Comment passes-tu Noël ou le Nouvel An ?",
+      "category": "Saisons et Événements"
+    },
+    {
+      "id": 99,
+      "content": "Quel livre a changé ta vie ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 100,
+      "content": "Préfères-tu lire des romans ou des livres documentaires ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 101,
+      "content": "Aimes-tu aller au cinéma ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 102,
+      "content": "Aimes-tu les puzzles ou les énigmes ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 103,
+      "content": "Collectionnes-tu quelque chose ?",
+      "category": "Loisirs"
+    },
+    {
+      "id": 104,
+      "content": "Quel est le plat le plus délicieux que tu aies jamais mangé ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 105,
+      "content": "Aimes-tu la nourriture épicée ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 106,
+      "content": "Quelle cuisine internationale préfères-tu ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 107,
+      "content": "Prends-tu le petit-déjeuner tous les jours ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 108,
+      "content": "Quel est ton snack préféré ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 109,
+      "content": "Aimes-tu boire du café ou du thé ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 110,
+      "content": "Quel pays aimerais-tu absolument visiter ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 111,
+      "content": "Préfères-tu voyager en avion ou en train ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 112,
+      "content": "Quel voyage était le plus impressionnant ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 113,
+      "content": "Planifies-tu tes voyages à l'avance ou spontanément ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 114,
+      "content": "Préfères-tu les destinations urbaines ou rurales ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 115,
+      "content": "As-tu déjà voyagé seul ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 116,
+      "content": "Qu'est-ce qui te motive au travail ?",
+      "category": "Travail"
+    },
+    {
+      "id": 117,
+      "content": "Comment gères-tu le stress au travail ?",
+      "category": "Travail"
+    },
+    {
+      "id": 118,
+      "content": "As-tu un emploi de rêve ?",
+      "category": "Travail"
+    },
+    {
+      "id": 119,
+      "content": "Qu'est-ce qui est plus important : le salaire ou la satisfaction ?",
+      "category": "Travail"
+    },
+    {
+      "id": 120,
+      "content": "Préfères-tu travailler en équipe ou seul ?",
+      "category": "Travail"
+    },
+    {
+      "id": 121,
+      "content": "Quelle nouvelle technologie t'enthousiasme ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 122,
+      "content": "Utilises-tu des appareils connectés à la maison ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 123,
+      "content": "Que penses-tu de la réalité virtuelle ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 124,
+      "content": "Combien d'heures passes-tu par jour sur ton smartphone ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 125,
+      "content": "Es-tu fan d'Apple ou d'Android ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 126,
+      "content": "Qu'est-ce qui était le mieux dans ta journée aujourd'hui ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 127,
+      "content": "Quelle est ta routine matinale ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 128,
+      "content": "Que fais-tu avant de te coucher ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 129,
+      "content": "As-tu une routine porte-bonheur ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 130,
+      "content": "Quel est ton moment préféré de la journée ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 131,
+      "content": "Quel sport aimerais-tu essayer ?",
+      "category": "Sports"
+    },
+    {
+      "id": 132,
+      "content": "Regardes-tu des événements sportifs ?",
+      "category": "Sports"
+    },
+    {
+      "id": 133,
+      "content": "Es-tu bon en sport ?",
+      "category": "Sports"
+    },
+    {
+      "id": 134,
+      "content": "Aimes-tu faire du yoga ou des étirements ?",
+      "category": "Sports"
+    },
+    {
+      "id": 135,
+      "content": "Aimes-tu nager ?",
+      "category": "Sports"
+    },
+    {
+      "id": 136,
+      "content": "Quelle est ta chaîne YouTube préférée ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 137,
+      "content": "Écoutes-tu des podcasts ? Lesquels ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 138,
+      "content": "Quelle est ta comédie ou ton comédien préféré ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 139,
+      "content": "Aimes-tu regarder des animes ou des dessins animés ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 140,
+      "content": "Quel est ton service de streaming préféré ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 141,
+      "content": "Fais-tu attention à ton alimentation ?",
+      "category": "Santé"
+    },
+    {
+      "id": 142,
+      "content": "Prends-tu des compléments alimentaires ?",
+      "category": "Santé"
+    },
+    {
+      "id": 143,
+      "content": "Comment gères-tu les rhumes ?",
+      "category": "Santé"
+    },
+    {
+      "id": 144,
+      "content": "Fais-tu régulièrement des bilans de santé ?",
+      "category": "Santé"
+    },
+    {
+      "id": 145,
+      "content": "Que fais-tu pour ta santé mentale ?",
+      "category": "Santé"
+    },
+    {
+      "id": 146,
+      "content": "Quelle langue aimerais-tu apprendre ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 147,
+      "content": "Quelle était ta matière préférée à l'école ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 148,
+      "content": "Participes-tu à des cours en ligne ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 149,
+      "content": "Comment te souviens-tu de nouvelles choses ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 150,
+      "content": "Quelle compétence aimerais-tu acquérir ?",
+      "category": "Apprentissage"
+    },
+    {
+      "id": 151,
+      "content": "À quelle fréquence vois-tu ta famille ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 152,
+      "content": "Qu'aimes-tu faire avec ta famille ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 153,
+      "content": "As-tu un ami proche ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 154,
+      "content": "Comment as-tu rencontré ton meilleur ami ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 155,
+      "content": "Qu'est-ce qui est important pour une bonne amitié ?",
+      "category": "Famille et Amis"
+    },
+    {
+      "id": 156,
+      "content": "As-tu un surnom ?",
+      "category": "Autres"
+    },
+    {
+      "id": 157,
+      "content": "Crois-tu à la chance ou à la malchance ?",
+      "category": "Autres"
+    },
+    {
+      "id": 158,
+      "content": "Quel serait ton super-pouvoir si tu en avais un ?",
+      "category": "Autres"
+    },
+    {
+      "id": 159,
+      "content": "Préfères-tu la ville ou la campagne ?",
+      "category": "Autres"
+    },
+    {
+      "id": 160,
+      "content": "Quel est ton jeu d'enfance préféré ?",
+      "category": "Autres"
+    },
+    {
+      "id": 161,
+      "content": "Quelle compétence aimerais-tu maîtriser instantanément ?",
+      "category": "Autres"
+    },
+    {
+      "id": 162,
+      "content": "Qu'est-ce qui te rend heureux ?",
+      "category": "Autres"
+    },
+    {
+      "id": 163,
+      "content": "Quelle est ta définition du succès ?",
+      "category": "Autres"
+    },
+    {
+      "id": 164,
+      "content": "Préfères-tu rencontrer beaucoup de gens ou avoir quelques amis proches ?",
+      "category": "Autres"
+    },
+    {
+      "id": 165,
+      "content": "Quelle est ta citation ou devise préférée ?",
+      "category": "Autres"
+    },
+    {
+      "id": 166,
+      "content": "Aimes-tu cuisiner ? Quelle est ta spécialité ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 167,
+      "content": "Préfères-tu le sucré ou le salé ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 168,
+      "content": "Aimes-tu aller aux festivals gastronomiques ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 169,
+      "content": "L'apparence de la nourriture est-elle importante pour toi ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 170,
+      "content": "As-tu des allergies ou intolérances alimentaires ?",
+      "category": "Gastronomie"
+    },
+    {
+      "id": 171,
+      "content": "Préfères-tu acheter des souvenirs pour toi ou pour les autres ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 172,
+      "content": "Préfères-tu les hôtels de luxe ou les logements économiques ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 173,
+      "content": "Qu'est-ce qui est le plus important lors d'un voyage ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 174,
+      "content": "As-tu déjà fait un vlog de voyage ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 175,
+      "content": "Quelle activité aimes-tu faire en voyage ?",
+      "category": "Voyage"
+    },
+    {
+      "id": 176,
+      "content": "Aimes-tu les horaires de travail flexibles ?",
+      "category": "Travail"
+    },
+    {
+      "id": 177,
+      "content": "Quel est ton lieu de travail idéal ?",
+      "category": "Travail"
+    },
+    {
+      "id": 178,
+      "content": "Participes-tu activement à des formations continues ?",
+      "category": "Travail"
+    },
+    {
+      "id": 179,
+      "content": "Quelle a été ta plus grande réussite professionnelle ?",
+      "category": "Travail"
+    },
+    {
+      "id": 180,
+      "content": "As-tu un mentor au travail ?",
+      "category": "Travail"
+    },
+    {
+      "id": 181,
+      "content": "T'intéresses-tu aux cryptomonnaies ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 182,
+      "content": "Utilises-tu le stockage cloud ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 183,
+      "content": "Que penses-tu des voitures autonomes ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 184,
+      "content": "Utilises-tu un gestionnaire de mots de passe ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 185,
+      "content": "Quelle importance accordes-tu à la vie privée en ligne ?",
+      "category": "Technologie"
+    },
+    {
+      "id": 186,
+      "content": "Quelle est ta meilleure habitude ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 187,
+      "content": "As-tu une liste de choses à faire avant de mourir ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 188,
+      "content": "Comment organises-tu ta journée ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 189,
+      "content": "Ranges-tu régulièrement ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 190,
+      "content": "Quelle est une chose que tu aimerais changer ?",
+      "category": "Vie Quotidienne"
+    },
+    {
+      "id": 191,
+      "content": "Regardes-tu les Jeux olympiques ?",
+      "category": "Sports"
+    },
+    {
+      "id": 192,
+      "content": "Préfères-tu le cardio ou la musculation ?",
+      "category": "Sports"
+    },
+    {
+      "id": 193,
+      "content": "As-tu déjà participé à un marathon ?",
+      "category": "Sports"
+    },
+    {
+      "id": 194,
+      "content": "Quel équipement sportif possèdes-tu ?",
+      "category": "Sports"
+    },
+    {
+      "id": 195,
+      "content": "Aimes-tu faire du sport en plein air ?",
+      "category": "Sports"
+    },
+    {
+      "id": 196,
+      "content": "Quel est ton film ou série plaisir coupable ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 197,
+      "content": "Aimes-tu regarder la téléréalité ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 198,
+      "content": "Quelle est ta réplique de film préférée ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 199,
+      "content": "Aimes-tu aller à des concerts ou festivals ?",
+      "category": "Divertissement"
+    },
+    {
+      "id": 200,
+      "content": "Quelle est ta série télé préférée de tous les temps ?",
+      "category": "Divertissement"
     }
   ]
 }

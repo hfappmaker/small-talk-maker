@@ -249,6 +249,756 @@
       "id": 50,
       "content": "O que você gosta de fazer quando sai com amigos?",
       "category": "Família e Amigos"
+    },
+    {
+      "id": 51,
+      "content": "Você tem um animal de estimação? Qual?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 52,
+      "content": "Qual animal você acha mais fofo?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 53,
+      "content": "Você prefere cachorros ou gatos?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 54,
+      "content": "Você já foi a um zoológico ou aquário?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 55,
+      "content": "Que animal você gostaria de ter como pet?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 56,
+      "content": "Você tem alguma história engraçada com animais?",
+      "category": "Animais de Estimação"
+    },
+    {
+      "id": 57,
+      "content": "Que estilo de moda você gosta?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 58,
+      "content": "Você tem uma marca ou loja favorita?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 59,
+      "content": "Você prefere roupas confortáveis ou estilosas?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 60,
+      "content": "Qual é seu segredo para cuidados com a pele ou maquiagem?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 61,
+      "content": "Com que frequência você vai ao cabeleireiro?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 62,
+      "content": "Qual é seu perfume ou fragrância favorita?",
+      "category": "Moda e Beleza"
+    },
+    {
+      "id": 63,
+      "content": "Você se preocupa com problemas ambientais?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 64,
+      "content": "O que você faz pelo meio ambiente?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 65,
+      "content": "Você gosta de ir à natureza ou fazer atividades ao ar livre?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 66,
+      "content": "Qual é sua estação do ano favorita?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 67,
+      "content": "Qual é seu lugar favorito na natureza?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 68,
+      "content": "Você já fez jardinagem ou cuidou de plantas?",
+      "category": "Meio Ambiente e Natureza"
+    },
+    {
+      "id": 69,
+      "content": "Como você gerencia seu dinheiro?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 70,
+      "content": "Você investe ou economiza?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 71,
+      "content": "O que você faria se ganhasse na loteria?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 72,
+      "content": "Qual foi o maior gasto que você já fez?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 73,
+      "content": "Você é mais econômico ou gastador?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 74,
+      "content": "Você tem um trabalho paralelo ou atividade secundária?",
+      "category": "Dinheiro e Finanças"
+    },
+    {
+      "id": 75,
+      "content": "Que tipo de arte você gosta?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 76,
+      "content": "Você já foi a um museu ou galeria?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 77,
+      "content": "Você toca algum instrumento musical?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 78,
+      "content": "Qual é seu artista ou obra favorita?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 79,
+      "content": "Você se interessa por cultura tradicional ou história?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 80,
+      "content": "Você já fez algo criativo (pintura, escrita, etc.)?",
+      "category": "Cultura e Artes"
+    },
+    {
+      "id": 81,
+      "content": "Que jogo você está jogando agora?",
+      "category": "Jogos"
+    },
+    {
+      "id": 82,
+      "content": "Qual é seu gênero de jogo favorito?",
+      "category": "Jogos"
+    },
+    {
+      "id": 83,
+      "content": "Você prefere jogar em console, PC ou mobile?",
+      "category": "Jogos"
+    },
+    {
+      "id": 84,
+      "content": "Qual é o melhor jogo que você já jogou?",
+      "category": "Jogos"
+    },
+    {
+      "id": 85,
+      "content": "Você joga online com amigos?",
+      "category": "Jogos"
+    },
+    {
+      "id": 86,
+      "content": "Você é mais um jogador casual ou hardcore?",
+      "category": "Jogos"
+    },
+    {
+      "id": 87,
+      "content": "O que é mais importante para você na vida?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 88,
+      "content": "Qual é seu objetivo ou sonho de vida?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 89,
+      "content": "Você tem um mentor ou modelo na vida?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 90,
+      "content": "O que você faz quando precisa tomar uma decisão difícil?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 91,
+      "content": "Qual é uma lição importante que você aprendeu?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 92,
+      "content": "Que conselho você daria ao seu eu mais jovem?",
+      "category": "Filosofia de Vida"
+    },
+    {
+      "id": 93,
+      "content": "O que você gosta de fazer na primavera?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 94,
+      "content": "Como você passa o verão?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 95,
+      "content": "O que você gosta do outono?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 96,
+      "content": "Como você passa o inverno?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 97,
+      "content": "Qual é sua estação favorita do ano?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 98,
+      "content": "Como você passa o Natal ou Ano Novo?",
+      "category": "Estações e Eventos"
+    },
+    {
+      "id": 99,
+      "content": "Que livro mudou sua vida?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 100,
+      "content": "Você prefere ler romances ou livros de não-ficção?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 101,
+      "content": "Você gosta de ir ao cinema?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 102,
+      "content": "Você gosta de quebra-cabeças ou enigmas?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 103,
+      "content": "Você coleciona alguma coisa?",
+      "category": "Hobbies"
+    },
+    {
+      "id": 104,
+      "content": "Qual é a comida mais deliciosa que você já comeu?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 105,
+      "content": "Você gosta de comida apimentada?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 106,
+      "content": "Qual culinária internacional você prefere?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 107,
+      "content": "Você toma café da manhã todos os dias?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 108,
+      "content": "Qual é seu lanche favorito?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 109,
+      "content": "Você gosta de beber café ou chá?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 110,
+      "content": "Que país você gostaria muito de visitar?",
+      "category": "Viagem"
+    },
+    {
+      "id": 111,
+      "content": "Você prefere viajar de avião ou de trem?",
+      "category": "Viagem"
+    },
+    {
+      "id": 112,
+      "content": "Qual viagem foi a mais impressionante?",
+      "category": "Viagem"
+    },
+    {
+      "id": 113,
+      "content": "Você planeja viagens com antecedência ou espontaneamente?",
+      "category": "Viagem"
+    },
+    {
+      "id": 114,
+      "content": "Você prefere destinos urbanos ou rurais?",
+      "category": "Viagem"
+    },
+    {
+      "id": 115,
+      "content": "Você já viajou sozinho?",
+      "category": "Viagem"
+    },
+    {
+      "id": 116,
+      "content": "O que te motiva no trabalho?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 117,
+      "content": "Como você lida com o estresse no trabalho?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 118,
+      "content": "Você tem um emprego dos sonhos?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 119,
+      "content": "O que é mais importante: salário ou satisfação?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 120,
+      "content": "Você prefere trabalhar em equipe ou sozinho?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 121,
+      "content": "Que nova tecnologia te entusiasma?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 122,
+      "content": "Você usa dispositivos de casa inteligente?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 123,
+      "content": "O que você pensa sobre realidade virtual?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 124,
+      "content": "Quantas horas você passa por dia no smartphone?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 125,
+      "content": "Você é fã de Apple ou Android?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 126,
+      "content": "O que foi o melhor do seu dia hoje?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 127,
+      "content": "Qual é sua rotina matinal?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 128,
+      "content": "O que você faz antes de dormir?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 129,
+      "content": "Você tem uma rotina de boa sorte?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 130,
+      "content": "Qual é seu momento favorito do dia?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 131,
+      "content": "Que esporte você gostaria de experimentar?",
+      "category": "Esportes"
+    },
+    {
+      "id": 132,
+      "content": "Você assiste a eventos esportivos?",
+      "category": "Esportes"
+    },
+    {
+      "id": 133,
+      "content": "Você é bom em esportes?",
+      "category": "Esportes"
+    },
+    {
+      "id": 134,
+      "content": "Você gosta de fazer yoga ou alongamento?",
+      "category": "Esportes"
+    },
+    {
+      "id": 135,
+      "content": "Você gosta de nadar?",
+      "category": "Esportes"
+    },
+    {
+      "id": 136,
+      "content": "Qual é seu canal favorito no YouTube?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 137,
+      "content": "Você ouve podcasts? Quais?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 138,
+      "content": "Qual é sua comédia ou comediante favorito?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 139,
+      "content": "Você gosta de assistir animes ou desenhos animados?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 140,
+      "content": "Qual é seu serviço de streaming favorito?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 141,
+      "content": "Você presta atenção à sua alimentação?",
+      "category": "Saúde"
+    },
+    {
+      "id": 142,
+      "content": "Você toma suplementos alimentares?",
+      "category": "Saúde"
+    },
+    {
+      "id": 143,
+      "content": "Como você lida com resfriados?",
+      "category": "Saúde"
+    },
+    {
+      "id": 144,
+      "content": "Você faz check-ups de saúde regularmente?",
+      "category": "Saúde"
+    },
+    {
+      "id": 145,
+      "content": "O que você faz pela sua saúde mental?",
+      "category": "Saúde"
+    },
+    {
+      "id": 146,
+      "content": "Que idioma você gostaria de aprender?",
+      "category": "Aprendizagem"
+    },
+    {
+      "id": 147,
+      "content": "Qual era sua matéria favorita na escola?",
+      "category": "Aprendizagem"
+    },
+    {
+      "id": 148,
+      "content": "Você participa de cursos online?",
+      "category": "Aprendizagem"
+    },
+    {
+      "id": 149,
+      "content": "Como você memoriza coisas novas?",
+      "category": "Aprendizagem"
+    },
+    {
+      "id": 150,
+      "content": "Que habilidade você gostaria de adquirir?",
+      "category": "Aprendizagem"
+    },
+    {
+      "id": 151,
+      "content": "Com que frequência você vê sua família?",
+      "category": "Família e Amigos"
+    },
+    {
+      "id": 152,
+      "content": "O que você gosta de fazer com sua família?",
+      "category": "Família e Amigos"
+    },
+    {
+      "id": 153,
+      "content": "Você tem um amigo próximo?",
+      "category": "Família e Amigos"
+    },
+    {
+      "id": 154,
+      "content": "Como você conheceu seu melhor amigo?",
+      "category": "Família e Amigos"
+    },
+    {
+      "id": 155,
+      "content": "O que é importante para uma boa amizade?",
+      "category": "Família e Amigos"
+    },
+    {
+      "id": 156,
+      "content": "Você tem um apelido?",
+      "category": "Outros"
+    },
+    {
+      "id": 157,
+      "content": "Você acredita em sorte ou azar?",
+      "category": "Outros"
+    },
+    {
+      "id": 158,
+      "content": "Qual seria seu superpoder se você tivesse um?",
+      "category": "Outros"
+    },
+    {
+      "id": 159,
+      "content": "Você prefere a cidade ou o campo?",
+      "category": "Outros"
+    },
+    {
+      "id": 160,
+      "content": "Qual é seu jogo de infância favorito?",
+      "category": "Outros"
+    },
+    {
+      "id": 161,
+      "content": "Que habilidade você gostaria de dominar instantaneamente?",
+      "category": "Outros"
+    },
+    {
+      "id": 162,
+      "content": "O que te faz feliz?",
+      "category": "Outros"
+    },
+    {
+      "id": 163,
+      "content": "Qual é sua definição de sucesso?",
+      "category": "Outros"
+    },
+    {
+      "id": 164,
+      "content": "Você prefere conhecer muitas pessoas ou ter poucos amigos próximos?",
+      "category": "Outros"
+    },
+    {
+      "id": 165,
+      "content": "Qual é sua citação ou lema favorito?",
+      "category": "Outros"
+    },
+    {
+      "id": 166,
+      "content": "Você gosta de cozinhar? Qual é sua especialidade?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 167,
+      "content": "Você prefere doce ou salgado?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 168,
+      "content": "Você gosta de ir a festivais gastronômicos?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 169,
+      "content": "A aparência da comida é importante para você?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 170,
+      "content": "Você tem alergias ou intolerâncias alimentares?",
+      "category": "Gastronomia"
+    },
+    {
+      "id": 171,
+      "content": "Você prefere comprar lembranças para você ou para os outros?",
+      "category": "Viagem"
+    },
+    {
+      "id": 172,
+      "content": "Você prefere hotéis de luxo ou acomodações econômicas?",
+      "category": "Viagem"
+    },
+    {
+      "id": 173,
+      "content": "O que é mais importante em uma viagem?",
+      "category": "Viagem"
+    },
+    {
+      "id": 174,
+      "content": "Você já fez um vlog de viagem?",
+      "category": "Viagem"
+    },
+    {
+      "id": 175,
+      "content": "Que atividade você gosta de fazer em viagens?",
+      "category": "Viagem"
+    },
+    {
+      "id": 176,
+      "content": "Você gosta de horários de trabalho flexíveis?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 177,
+      "content": "Qual é seu local de trabalho ideal?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 178,
+      "content": "Você participa ativamente de treinamentos contínuos?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 179,
+      "content": "Qual foi sua maior conquista profissional?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 180,
+      "content": "Você tem um mentor no trabalho?",
+      "category": "Trabalho"
+    },
+    {
+      "id": 181,
+      "content": "Você se interessa por criptomoedas?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 182,
+      "content": "Você usa armazenamento em nuvem?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 183,
+      "content": "O que você pensa sobre carros autônomos?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 184,
+      "content": "Você usa gerenciador de senhas?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 185,
+      "content": "Quão importante é a privacidade online para você?",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 186,
+      "content": "Qual é seu melhor hábito?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 187,
+      "content": "Você tem uma lista de desejos?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 188,
+      "content": "Como você organiza seu dia?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 189,
+      "content": "Você arruma regularmente?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 190,
+      "content": "O que é uma coisa que você gostaria de mudar?",
+      "category": "Vida Diária"
+    },
+    {
+      "id": 191,
+      "content": "Você assiste às Olimpíadas?",
+      "category": "Esportes"
+    },
+    {
+      "id": 192,
+      "content": "Você prefere cardio ou musculação?",
+      "category": "Esportes"
+    },
+    {
+      "id": 193,
+      "content": "Você já participou de uma maratona?",
+      "category": "Esportes"
+    },
+    {
+      "id": 194,
+      "content": "Que equipamento esportivo você possui?",
+      "category": "Esportes"
+    },
+    {
+      "id": 195,
+      "content": "Você gosta de praticar esportes ao ar livre?",
+      "category": "Esportes"
+    },
+    {
+      "id": 196,
+      "content": "Qual é seu filme ou série guilty pleasure?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 197,
+      "content": "Você gosta de assistir reality shows?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 198,
+      "content": "Qual é sua citação de filme favorita?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 199,
+      "content": "Você gosta de ir a shows ou festivais?",
+      "category": "Entretenimento"
+    },
+    {
+      "id": 200,
+      "content": "Qual é sua série de TV favorita de todos os tempos?",
+      "category": "Entretenimento"
     }
   ]
 }
