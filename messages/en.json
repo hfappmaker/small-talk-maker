@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Small Talk Maker",
-    "description": "A web application that suggests random conversation topics"
+    "description": "Discover 200+ conversation topics in 8 languages. Perfect icebreaker for meetings, dates, and gatherings. Free random conversation starter - no registration!",
+    "keywords": "conversation topics, icebreaker, small talk, conversation starter, random topics, team building, ice breaker questions, chat topics, multilingual, free"
   },
   "header": {
     "title": "Small Talk Maker",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "Back to Home"
+  },
+  "share": {
+    "title": "Share this topic",
+    "x": "Share on X",
+    "copy": "Share",
+    "facebook": "Share on Facebook",
+    "line": "Share on LINE",
+    "weibo": "Share on Weibo",
+    "discord": "Share on Discord",
+    "threads": "Share on Threads",
+    "copied": "Copied!",
+    "noTopic": "Generate a topic first"
   },
   "about": {
     "title": "About Small Talk Maker",

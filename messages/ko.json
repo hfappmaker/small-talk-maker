@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "잡담 메이커",
-    "description": "무작위로 대화 주제를 추천하는 웹 애플리케이션"
+    "description": "8개 언어로 200개 이상의 대화 주제 제공. 회의, 데이트, 모임의 아이스브레이커로 완벽. 무료 주제 생성기 - 가입 불필요!",
+    "keywords": "대화 주제, 아이스브레이커, 잡담, 주제 생성기, 팀 빌딩, 대화 소재, 토크 주제, 다국어, 무료"
   },
   "header": {
     "title": "잡담 메이커",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "홈으로 돌아가기"
+  },
+  "share": {
+    "title": "이 주제 공유하기",
+    "x": "X에서 공유",
+    "copy": "공유",
+    "facebook": "Facebook에서 공유",
+    "line": "LINE에서 공유",
+    "weibo": "Weibo에서 공유",
+    "discord": "Discord에서 공유",
+    "threads": "Threads에서 공유",
+    "copied": "복사되었습니다!",
+    "noTopic": "먼저 주제를 생성하세요"
   },
   "about": {
     "title": "잡담 메이커 소개",

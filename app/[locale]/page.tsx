@@ -1,15 +1,14 @@
 "use client";
 
-import { useState } from "react";
 import { useLocale } from "next-intl";
 import Header from "@/components/Header";
 import TopicCard from "@/components/TopicCard";
 import RandomButton from "@/components/RandomButton";
-import { Topic } from "@/types/topic";
 import { getRandomTopic } from "@/lib/topics";
+import { useTopicContext } from "@/contexts/TopicContext";
 
 export default function Home() {
-  const [currentTopic, setCurrentTopic] = useState<Topic | null>(null);
+  const { currentTopic, setCurrentTopic } = useTopicContext();
   const locale = useLocale();
 
   const handleShowTopic = async () => {

@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Générateur de Sujets",
-    "description": "Une application web qui suggère des sujets de conversation aléatoires"
+    "description": "Plus de 200 sujets de conversation en 8 langues. Brise-glace parfait pour réunions, rendez-vous et événements. Générateur gratuit - sans inscription!",
+    "keywords": "sujets de conversation, brise-glace, small talk, générateur de sujets, team building, questions brise-glace, thèmes discussion, multilingue, gratuit"
   },
   "header": {
     "title": "Générateur de Sujets",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "Retour à l'Accueil"
+  },
+  "share": {
+    "title": "Partager ce sujet",
+    "x": "Partager sur X",
+    "copy": "Partager",
+    "facebook": "Partager sur Facebook",
+    "line": "Partager sur LINE",
+    "weibo": "Partager sur Weibo",
+    "discord": "Partager sur Discord",
+    "threads": "Partager sur Threads",
+    "copied": "Copié !",
+    "noTopic": "Générez d'abord un sujet"
   },
   "about": {
     "title": "À propos du Générateur de Sujets",

@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "雑談メーカー",
-    "description": "ランダムに雑談の話題を提案するWebアプリケーション"
+    "description": "8言語対応、200以上の話題から会話のきっかけを提案。飲み会・会議・デートのアイスブレイクに最適。登録不要・完全無料の雑談ネタジェネレーター",
+    "keywords": "雑談, 話題, 会話のきっかけ, アイスブレイク, トークテーマ, 飲み会, ネタ, 会話ネタ, チームビルディング, 無料"
   },
   "header": {
     "title": "雑談メーカー",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "ホームに戻る"
+  },
+  "share": {
+    "title": "この話題をシェア",
+    "x": "Xでシェア",
+    "copy": "共有",
+    "facebook": "Facebookでシェア",
+    "line": "LINEでシェア",
+    "weibo": "Weiboでシェア",
+    "discord": "Discordでシェア",
+    "threads": "Threadsでシェア",
+    "copied": "コピーしました！",
+    "noTopic": "まず話題を表示してください"
   },
   "about": {
     "title": "雑談メーカーについて",

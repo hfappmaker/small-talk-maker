@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Gerador de Tópicos",
-    "description": "Uma aplicação web que sugere tópicos de conversa aleatórios"
+    "description": "Mais de 200 tópicos de conversa em 8 idiomas. Quebra-gelo perfeito para reuniões, encontros e eventos. Gerador gratuito - sem cadastro!",
+    "keywords": "tópicos de conversa, quebra-gelo, bate-papo, gerador de tópicos, team building, perguntas quebra gelo, temas chat, multilíngue, grátis"
   },
   "header": {
     "title": "Gerador de Tópicos",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "Voltar à Página Inicial"
+  },
+  "share": {
+    "title": "Compartilhar este tópico",
+    "x": "Compartilhar no X",
+    "copy": "Compartilhar",
+    "facebook": "Compartilhar no Facebook",
+    "line": "Compartilhar no LINE",
+    "weibo": "Compartilhar no Weibo",
+    "discord": "Compartilhar no Discord",
+    "threads": "Compartilhar no Threads",
+    "copied": "Copiado!",
+    "noTopic": "Gere primeiro um tópico"
   },
   "about": {
     "title": "Sobre o Gerador de Tópicos",

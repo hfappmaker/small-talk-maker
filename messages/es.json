@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Generador de Temas",
-    "description": "Una aplicación web que sugiere temas de conversación al azar"
+    "description": "Más de 200 temas de conversación en 8 idiomas. Rompehielos perfecto para reuniones, citas y eventos. Generador aleatorio gratis - sin registro!",
+    "keywords": "temas de conversación, rompehielos, charla casual, generador de temas, team building, preguntas rompe hielo, temas chat, multilingüe, gratis"
   },
   "header": {
     "title": "Generador de Temas",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "Volver al inicio"
+  },
+  "share": {
+    "title": "Compartir este tema",
+    "x": "Compartir en X",
+    "copy": "Compartir",
+    "facebook": "Compartir en Facebook",
+    "line": "Compartir en LINE",
+    "weibo": "Compartir en Weibo",
+    "discord": "Compartir en Discord",
+    "threads": "Compartir en Threads",
+    "copied": "¡Copiado!",
+    "noTopic": "Genere primero un tema"
   },
   "about": {
     "title": "Acerca del Generador de Temas",

@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "闲聊话题生成器",
-    "description": "随机推荐闲聊话题的网络应用"
+    "description": "8种语言提供200+聊天话题。适合会议、约会和聚会的完美破冰工具。免费话题生成器 - 无需注册！",
+    "keywords": "聊天话题, 破冰, 闲聊, 话题生成器, 团队建设, 破冰问题, 聊天主题, 多语言, 免费"
   },
   "header": {
     "title": "闲聊话题生成器",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "返回首页"
+  },
+  "share": {
+    "title": "分享此话题",
+    "x": "在X上分享",
+    "copy": "分享",
+    "facebook": "在Facebook上分享",
+    "line": "在LINE上分享",
+    "weibo": "在微博上分享",
+    "discord": "在Discord上分享",
+    "threads": "在Threads上分享",
+    "copied": "已复制！",
+    "noTopic": "请先生成话题"
   },
   "about": {
     "title": "关于闲聊话题生成器",

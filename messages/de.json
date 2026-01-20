@@ -1,7 +1,8 @@
 {
   "metadata": {
     "title": "Gesprächsthemen Generator",
-    "description": "Eine Webanwendung, die zufällige Gesprächsthemen vorschlägt"
+    "description": "Über 200 Gesprächsthemen in 8 Sprachen. Perfekter Eisbrecher für Meetings, Dates und Events. Kostenloser Themen-Generator - keine Registrierung!",
+    "keywords": "Gesprächsthemen, Eisbrecher, Small Talk, Themen Generator, Teambuilding, Icebreaker Fragen, Chat Themen, mehrsprachig, kostenlos"
   },
   "header": {
     "title": "Gesprächsthemen Generator",
@@ -28,6 +29,18 @@
   },
   "navigation": {
     "backToHome": "Zurück zur Startseite"
+  },
+  "share": {
+    "title": "Dieses Thema teilen",
+    "x": "Auf X teilen",
+    "copy": "Teilen",
+    "facebook": "Auf Facebook teilen",
+    "line": "Auf LINE teilen",
+    "weibo": "Auf Weibo teilen",
+    "discord": "Auf Discord teilen",
+    "threads": "Auf Threads teilen",
+    "copied": "Kopiert!",
+    "noTopic": "Generieren Sie zuerst ein Thema"
   },
   "about": {
     "title": "Über Gesprächsthemen Generator",
