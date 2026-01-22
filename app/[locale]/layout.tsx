@@ -37,12 +37,22 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       locale: locale,
       siteName: messages.metadata.title,
       url: `${baseUrl}/${locale}`,
+      images: [
+        {
+          url: `${baseUrl}/og-image.png`,
+          width: 1200,
+          height: 630,
+          alt: messages.metadata.title,
+          type: 'image/png',
+        }
+      ],
     },
 
     twitter: {
-      card: 'summary',
+      card: 'summary_large_image',
       title: messages.metadata.title,
       description: messages.metadata.description,
+      images: [`${baseUrl}/og-image.png`],
     },
 
     alternates: {
