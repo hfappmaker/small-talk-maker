@@ -1,8 +1,26 @@
 {
   "metadata": {
-    "title": "Gesprächsthemen Generator",
+    "title": "Gesprächsthemen Generator - Kostenloser Themen-Finder",
     "description": "Über 200 Gesprächsthemen in 8 Sprachen. Perfekter Eisbrecher für Meetings, Dates und Events. Kostenloser Themen-Generator - keine Registrierung!",
-    "keywords": "Gesprächsthemen, Eisbrecher, Small Talk, Themen Generator, Teambuilding, Icebreaker Fragen, Chat Themen, mehrsprachig, kostenlos"
+    "keywords": "Gesprächsthemen, Eisbrecher, Small Talk, Themen Generator, Teambuilding, Icebreaker Fragen, Chat Themen, mehrsprachig, kostenlos",
+    "pages": {
+      "about": {
+        "title": "Über Gesprächsthemen Generator - Funktionen, Sprachen & Anleitung",
+        "description": "Entdecken Sie den Gesprächsthemen Generator: kostenloses Tool mit 200+ zufälligen Themen in 8 Sprachen. Ideal für Eisbrecher, Meetings, Dates und Teambuilding."
+      },
+      "privacy": {
+        "title": "Datenschutzrichtlinie - Gesprächsthemen Generator",
+        "description": "Datenschutzrichtlinie des Gesprächsthemen Generators. Keine personenbezogenen Daten werden erhoben. Informationen zu Cookies, anonymer Analyse und Google AdSense."
+      },
+      "terms": {
+        "title": "Nutzungsbedingungen - Gesprächsthemen Generator",
+        "description": "Nutzungsbedingungen des Gesprächsthemen Generators. Kostenlos für die private Nutzung, keine Registrierung erforderlich. Zu Haftungsausschluss und geistigem Eigentum."
+      },
+      "contact": {
+        "title": "Kontakt - Gesprächsthemen Generator | Fragen & Feedback",
+        "description": "Kontaktieren Sie den Betreiber des Gesprächsthemen Generators (FlowTech Inc.) über unser Formular. Wir freuen uns über Fragen, Feedback und Verbesserungsvorschläge."
+      }
+    }
   },
   "header": {
     "title": "Gesprächsthemen Generator",

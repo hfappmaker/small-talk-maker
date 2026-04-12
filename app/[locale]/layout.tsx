@@ -73,6 +73,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       index: true,
       follow: true,
     },
+
+    icons: {
+      icon: [
+        { url: '/favicon.ico', sizes: 'any' },
+        { url: '/icon.png', type: 'image/png' },
+      ],
+      shortcut: '/favicon.ico',
+      apple: '/icon.png',
+    },
   };
 }
 

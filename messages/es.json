@@ -1,8 +1,26 @@
 {
   "metadata": {
-    "title": "Generador de Temas",
+    "title": "Generador de Temas - Rompehielos para Conversaciones",
     "description": "Más de 200 temas de conversación en 8 idiomas. Rompehielos perfecto para reuniones, citas y eventos. Generador aleatorio gratis - sin registro!",
-    "keywords": "temas de conversación, rompehielos, charla casual, generador de temas, team building, preguntas rompe hielo, temas chat, multilingüe, gratis"
+    "keywords": "temas de conversación, rompehielos, charla casual, generador de temas, team building, preguntas rompe hielo, temas chat, multilingüe, gratis",
+    "pages": {
+      "about": {
+        "title": "Acerca del Generador de Temas - Funciones, Idiomas y Uso",
+        "description": "Conoce el Generador de Temas: herramienta gratuita con más de 200 temas aleatorios en 8 idiomas. Ideal como rompehielos para reuniones, citas y team building."
+      },
+      "privacy": {
+        "title": "Política de Privacidad - Generador de Temas de Conversación",
+        "description": "Lee la política de privacidad del Generador de Temas. No recopilamos datos personales. Información sobre cookies, análisis anónimos y Google AdSense."
+      },
+      "terms": {
+        "title": "Términos de Servicio - Generador de Temas de Conversación",
+        "description": "Consulta los términos de servicio del Generador de Temas. Gratuito para uso personal, sin registro. Información sobre licencias, exenciones y propiedad intelectual."
+      },
+      "contact": {
+        "title": "Contacto - Generador de Temas | Preguntas y Comentarios",
+        "description": "Contacta al operador del Generador de Temas (FlowTech Inc.) a través de nuestro formulario. Bienvenidas tus preguntas, sugerencias y reportes de errores."
+      }
+    }
   },
   "header": {
     "title": "Generador de Temas",

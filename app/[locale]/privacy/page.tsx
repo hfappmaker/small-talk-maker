@@ -1,92 +1,102 @@
-"use client";
-
-import { useTranslations } from "next-intl";
+import { getTranslations } from "next-intl/server";
 import LegalPageLayout from "@/components/LegalPageLayout";
 
-export default function PrivacyPage() {
-  const t = useTranslations('privacy');
+type Props = { params: Promise<{ locale: string }> };
+
+export async function generateMetadata({ params }: Props) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "metadata.pages.privacy" });
+  return {
+    title: t("title"),
+    description: t("description"),
+  };
+}
+
+export default async function PrivacyPage({ params }: Props) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "privacy" });
 
   return (
-    <LegalPageLayout title={t('title')}>
+    <LegalPageLayout title={t("title")}>
       <p className="text-sm text-gray-600 dark:text-gray-400 mb-6">
-        {t('lastUpdated')}
+        {t("lastUpdated")}
       </p>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.intro.heading')}
+          {t("sections.intro.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.intro.content')}
+          {t("sections.intro.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.dataCollection.heading')}
+          {t("sections.dataCollection.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.dataCollection.content')}
+          {t("sections.dataCollection.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.cookies.heading')}
+          {t("sections.cookies.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.cookies.content')}
+          {t("sections.cookies.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.thirdParty.heading')}
+          {t("sections.thirdParty.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
-          {t('sections.thirdParty.content')}
+          {t("sections.thirdParty.content")}
         </p>
         <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-100 mb-2">
-          {t('sections.thirdParty.adsense.heading')}
+          {t("sections.thirdParty.adsense.heading")}
         </h3>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.thirdParty.adsense.content')}
+          {t("sections.thirdParty.adsense.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.dataSecurity.heading')}
+          {t("sections.dataSecurity.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.dataSecurity.content')}
+          {t("sections.dataSecurity.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.childrenPrivacy.heading')}
+          {t("sections.childrenPrivacy.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.childrenPrivacy.content')}
+          {t("sections.childrenPrivacy.content")}
         </p>
       </section>
 
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.changes.heading')}
+          {t("sections.changes.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.changes.content')}
+          {t("sections.changes.content")}
         </p>
       </section>
 
       <section>
         <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
-          {t('sections.contact.heading')}
+          {t("sections.contact.heading")}
         </h2>
         <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-          {t('sections.contact.content')}
+          {t("sections.contact.content")}
         </p>
       </section>
     </LegalPageLayout>

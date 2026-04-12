@@ -1,8 +1,26 @@
 {
   "metadata": {
-    "title": "Générateur de Sujets",
+    "title": "Générateur de Sujets - Brise-glace et Conversations",
     "description": "Plus de 200 sujets de conversation en 8 langues. Brise-glace parfait pour réunions, rendez-vous et événements. Générateur gratuit - sans inscription!",
-    "keywords": "sujets de conversation, brise-glace, small talk, générateur de sujets, team building, questions brise-glace, thèmes discussion, multilingue, gratuit"
+    "keywords": "sujets de conversation, brise-glace, small talk, générateur de sujets, team building, questions brise-glace, thèmes discussion, multilingue, gratuit",
+    "pages": {
+      "about": {
+        "title": "À propos du Générateur de Sujets - Fonctionnalités et Langues",
+        "description": "Découvrez le Générateur de Sujets : outil gratuit avec 200+ sujets aléatoires en 8 langues. Parfait comme brise-glace pour réunions, rendez-vous et team building."
+      },
+      "privacy": {
+        "title": "Politique de Confidentialité - Générateur de Sujets de Conversation",
+        "description": "Lisez la politique de confidentialité du Générateur de Sujets. Aucune donnée personnelle collectée. Informations sur les cookies, statistiques anonymes et Google AdSense."
+      },
+      "terms": {
+        "title": "Conditions d'Utilisation - Générateur de Sujets de Conversation",
+        "description": "Consultez les conditions d'utilisation du Générateur de Sujets. Gratuit pour usage personnel, sans inscription. Licence, avertissements et propriété intellectuelle."
+      },
+      "contact": {
+        "title": "Contact - Générateur de Sujets | Questions et Commentaires",
+        "description": "Contactez l'opérateur du Générateur de Sujets (FlowTech Inc.) via notre formulaire. Nous accueillons vos questions, suggestions et signalements de problèmes."
+      }
+    }
   },
   "header": {
     "title": "Générateur de Sujets",

@@ -1,8 +1,26 @@
 {
   "metadata": {
-    "title": "Gerador de Tópicos",
+    "title": "Gerador de Tópicos - Quebra-gelo Gratuito para Conversas",
     "description": "Mais de 200 tópicos de conversa em 8 idiomas. Quebra-gelo perfeito para reuniões, encontros e eventos. Gerador gratuito - sem cadastro!",
-    "keywords": "tópicos de conversa, quebra-gelo, bate-papo, gerador de tópicos, team building, perguntas quebra gelo, temas chat, multilíngue, grátis"
+    "keywords": "tópicos de conversa, quebra-gelo, bate-papo, gerador de tópicos, team building, perguntas quebra gelo, temas chat, multilíngue, grátis",
+    "pages": {
+      "about": {
+        "title": "Sobre o Gerador de Tópicos - Recursos, Idiomas e Como Usar",
+        "description": "Conheça o Gerador de Tópicos: ferramenta gratuita com 200+ tópicos aleatórios em 8 idiomas. Ideal como quebra-gelo para reuniões, encontros e team building."
+      },
+      "privacy": {
+        "title": "Política de Privacidade - Gerador de Tópicos de Conversa",
+        "description": "Leia a política de privacidade do Gerador de Tópicos. Não coletamos dados pessoais. Saiba como usamos cookies, análises anônimas e Google AdSense no serviço."
+      },
+      "terms": {
+        "title": "Termos de Serviço - Gerador de Tópicos de Conversa",
+        "description": "Consulte os termos de serviço do Gerador de Tópicos. Gratuito para uso pessoal, sem cadastro. Informações sobre licença de uso, isenções e propriedade intelectual."
+      },
+      "contact": {
+        "title": "Contato - Gerador de Tópicos | Perguntas e Feedback",
+        "description": "Entre em contato com o operador do Gerador de Tópicos (FlowTech Inc.) pelo nosso formulário. Aceitamos perguntas, sugestões e relatos de problemas com prazer."
+      }
+    }
   },
   "header": {
     "title": "Gerador de Tópicos",

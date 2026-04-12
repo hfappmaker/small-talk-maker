@@ -1,8 +1,26 @@
 {
   "metadata": {
-    "title": "Small Talk Maker",
+    "title": "Small Talk Maker - Free Conversation Topic Generator",
     "description": "Discover 200+ conversation topics in 8 languages. Perfect icebreaker for meetings, dates, and gatherings. Free random conversation starter - no registration!",
-    "keywords": "conversation topics, icebreaker, small talk, conversation starter, random topics, team building, ice breaker questions, chat topics, multilingual, free"
+    "keywords": "conversation topics, icebreaker, small talk, conversation starter, random topics, team building, ice breaker questions, chat topics, multilingual, free",
+    "pages": {
+      "about": {
+        "title": "About Small Talk Maker - Features, Languages & How It Works",
+        "description": "Learn about Small Talk Maker: a free tool offering 200+ random conversation topics in 8 languages. Perfect for icebreakers, meetings, dates, and team building activities."
+      },
+      "privacy": {
+        "title": "Privacy Policy - Small Talk Maker",
+        "description": "Read the Small Talk Maker privacy policy. We don't collect personal data. Learn how we use cookies, anonymous analytics, and Google AdSense to improve the service."
+      },
+      "terms": {
+        "title": "Terms of Service - Small Talk Maker",
+        "description": "Review the Small Talk Maker terms of service. Free for personal use, no account required. Learn about permitted use, disclaimers, and intellectual property rights."
+      },
+      "contact": {
+        "title": "Contact Small Talk Maker - Questions & Feedback",
+        "description": "Contact Small Talk Maker's operator, FlowTech Inc., via our online form. We welcome questions, feedback, bug reports, and suggestions about our conversation topic generator."
+      }
+    }
   },
   "header": {
     "title": "Small Talk Maker",

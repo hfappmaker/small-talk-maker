@@ -15,7 +15,7 @@ export default function LegalPageLayout({ title, children }: LegalPageLayoutProp
 
   return (
     <div className="min-h-screen flex flex-col items-center px-4">
-      <Header />
+      <Header asHeading={false} />
 
       <main className="w-full max-w-3xl mb-8">
         <Link
