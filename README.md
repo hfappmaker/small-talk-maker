@@ -1,6 +1,11 @@
-# 雑談メーカー
+# 雑談メーカー / Small Talk Maker
 
-ランダムまたはカテゴリ別に雑談の話題を提案するWebアプリケーション
+ランダムに雑談の話題を提案する多言語対応Webアプリケーション
+
+**[Live Demo → https://small-talk-maker.vercel.app](https://small-talk-maker.vercel.app)**
+
+> Free random conversation topic generator in 8 languages — no signup required.
+> 登録不要・完全無料の会話ネタジェネレーター（8言語対応）
 
 ## 機能
 

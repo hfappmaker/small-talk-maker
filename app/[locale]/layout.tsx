@@ -99,12 +99,39 @@ export default async function LocaleLayout({
   }
 
   const messages = await getMessages({ locale });
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://small-talk-maker.vercel.app';
+  const typedMessages = messages as Messages;
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": typedMessages.metadata.title,
+    "description": typedMessages.metadata.description,
+    "url": `${baseUrl}/${locale}`,
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript",
+    "inLanguage": locale,
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "FlowTech Inc."
+    }
+  };
 
   return (
     <html lang={locale}>
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3718710324489086"
           crossOrigin="anonymous"></script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
       </head>
       <body className="antialiased min-h-screen flex flex-col bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-900 dark:to-gray-800">
         <BubbleBackground />
